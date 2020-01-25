@@ -105,8 +105,6 @@ http://video.oct.dc.gov/out/u/15_12.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 group-title="Entertainment",WGN 9 Chicago
 https://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 group-title="News",WRAL-TV
-https://media-hls.wral.com/livehttporigin/_definst_/mp4:encoder25-medium/master.m3u8
 #EXTINF:-1 group-title="News",teleSUR
 https://d7g1ebft2592.cloudfront.net/mblivev3/480p/playlist.m3u8
 #EXTINF:-1 group-title="News",CGTN (ENGLISH)
@@ -197,8 +195,6 @@ https://drive.google.com/u/0/uc?id=1908kqDeQ6Gw3noNIoS_IeZx361Lpk1ij&export=down
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 group-title="INDO",SCTV HD
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
-#EXTINF:-1 group-title="INDO",RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 group-title="INDO",RCTI HD
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1 group-title="INDO",TRANSTV 1
@@ -213,14 +209,8 @@ http://id2.indostreamingtv.com/live/trans7/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 #EXTINF:-1 group-title="INDO",TRANS 7 HD
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
-#EXTINF:-1 group-title="INDO",MNCTV HD
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 group-title="INDO",GLOBAL TV HD
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 group-title="INDO",NET TV HD
 http://id2.indostreamingtv.com/live/nettv/index.m3u8
-#EXTINF:-1 group-title="INDO",INEWS HD
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 group-title="INDO",TVONE HD
 http://id1.indostreamingtv.com/live/tv444/index.m3u8?fbclid=IwAR3sGNiSBn6sRU_jzwhS3pFl6SDsd13Ta0Pk6CknNmTruLHA9zL6-argvGU
 #EXTINF:-1 group-title="INDO",METRO TV HD
@@ -329,8 +319,6 @@ http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",BMW TV
 http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="NINMEDIA",TABALONG TV
-http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",RUMAH TV
@@ -341,8 +329,6 @@ http://stream1.ninmedia.tv/tvdesa/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",RCTV
 http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="NINMEDIA",JAMBI TV
-http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",RADAR TV LAMPUNG
 http://stream1.ninmedia.tv/radartvlampung/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",PAL TV
@@ -509,8 +495,6 @@ http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",BMW TV
 http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="NINMEDIA",TABALONG TV
-http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",RUMAH TV
@@ -637,8 +621,6 @@ http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",BMW TV
 http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="NINMEDIA",TABALONG TV
-http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",RUMAH TV
@@ -807,10 +789,6 @@ http://cableserver1.cableguy.pro:82/live?cId=376&uId=2255&deviceUser=roggiemkd&d
 http://203.207.56.228/live/iptv006.m3u8
 #EXTINF:-1 group-title="Movies",HBO Family ID
 http://203.207.56.228/live/iptv004.m3u8
-#EXTINF:-1 group-title="Movies",FOX Rewayat
-http://cableserver1.cableguy.pro:82/live?cId=1670&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",FOX Action Movies
-http://cableserver1.cableguy.pro:82/live?cId=1665&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",FOX Family Movies
 http://cableserver1.cableguy.pro:82/live?cId=1669&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",FOX Crime
@@ -871,28 +849,6 @@ http://cableserver1.cableguy.pro:82/live?cId=1650&uId=2255&deviceUser=roggiemkd&
 http://cableserver1.cableguy.pro:82/live?cId=1651&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",BEIN MOVIES 4
 http://cableserver1.cableguy.pro:82/live?cId=1652&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",CINESTAR PREMIERE 1
-http://cableserver1.cableguy.pro:82/live?cId=383&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",M MOVIES SMILE F 1
-http://cableserver1.cableguy.pro:82/live?cId=489&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",MAXCRO SELECT (HOROR)
-http://cableserver1.cableguy.pro:82/live?cId=473&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",MAXCRO SELECT (PREMIUM)
-http://cableserver1.cableguy.pro:82/live?cId=474&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",MAXCRO SELECT (KINO)
-http://cableserver1.cableguy.pro:82/live?cId=471&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",MAXCRO SELECT 1
-http://cableserver1.cableguy.pro:82/live?cId=475&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",MAXCRO SELECT 2
-http://cableserver1.cableguy.pro:82/live?cId=476&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",MAXCRO SELECT 3
-http://cableserver1.cableguy.pro:82/live?cId=477&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",MAXCRO SELECT 6
-http://cableserver1.cableguy.pro:82/live?cId=480&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",MAXCRO SELECT 7
-http://cableserver1.cableguy.pro:82/live?cId=481&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",MAXCRO SELECT 8
-http://cableserver1.cableguy.pro:82/live?cId=482&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",MAXCRO SELECT 9
 http://cableserver1.cableguy.pro:82/live?cId=483&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",MAXCRO SELECT 10
@@ -973,8 +929,6 @@ http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Ninmedia",BMW TV
 http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Ninmedia",TABALONG TV
-http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Ninmedia",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 group-title="Ninmedia",RUMAH TV
@@ -1025,8 +979,6 @@ https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=
 https://www.dropbox.com/s/9p9ir5n323ubkod/Aladdin.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
 #EXTINF:-1 group-title="Top doc ID Movies",Alien : Covenant(2017)
 https://www.googleapis.com/drive/v3/files/1fVuB4camSZcd8y1wVuzQUwPAmc5pIIpT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="Top doc ID Movies",Aquaman(2018)
-https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
 #EXTINF:-1 group-title="Top doc ID Movies",Asterix: The Secret of the Magic Potion(2018)
 https://cdn.clonefile.icu/drive/index.php?id=41IpLKLI0NntH%2FJngglgMApGgMjmgZzjpUcCRuyBP5noKWK4V8MO%2FteNVF49vg34IKWy02snXkeSKRobIbK3XTjXZdhGIZ%2BB%2BywV5gUyqo7P0anLUitmN%2FEZ161D8gJkg%3D&ref=&res=720
 #EXTINF:-1 group-title="Top doc ID Movies",Captive State(2019)
@@ -1129,12 +1081,8 @@ http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="Movies",Hollywood Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 group-title="Movies",Hollywood Movies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="Movies",Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="Movies",Hollywood Movies 10
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
 #EXTINF:-1 group-title="Movies",Hollywood Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="Movies",Hollywood Movies 12
@@ -1257,8 +1205,6 @@ http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Ninmedia",BMW TV
 http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Ninmedia",TABALONG TV
-http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Ninmedia",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 group-title="Ninmedia",RUMAH TV
@@ -1271,8 +1217,6 @@ http://stream1.ninmedia.tv/gemilangtv/rtmp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/rctv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Ninmedia",JAMBI TV
 http://stream1.ninmedia.tv/jambitv/rtmp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Ninmedia",PAL TV
-http://stream1.ninmedia.tv/paltv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Ninmedia",O SHOP
 http://stream1.ninmedia.tv/oshop/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Ninmedia",NABAWI TV
@@ -1309,8 +1253,6 @@ https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=
 https://www.dropbox.com/s/9p9ir5n323ubkod/Aladdin.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
 #EXTINF:-1 group-title="Top doc ID Movies",Alien : Covenant(2017)
 https://www.googleapis.com/drive/v3/files/1fVuB4camSZcd8y1wVuzQUwPAmc5pIIpT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="Top doc ID Movies",Aquaman(2018)
-https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
 #EXTINF:-1 group-title="Top doc ID Movies",Asterix: The Secret of the Magic Potion(2018)
 https://cdn.clonefile.icu/drive/index.php?id=41IpLKLI0NntH%2FJngglgMApGgMjmgZzjpUcCRuyBP5noKWK4V8MO%2FteNVF49vg34IKWy02snXkeSKRobIbK3XTjXZdhGIZ%2BB%2BywV5gUyqo7P0anLUitmN%2FEZ161D8gJkg%3D&ref=&res=720
 #EXTINF:-1 group-title="Top doc ID Movies",Captive State(2019)
@@ -1359,36 +1301,12 @@ http://185.23.213.162:8789/live/ania/ania/24097.m3u8
 http://185.23.213.162:8789/live/ania/ania/24092.m3u8
 #EXTINF:-1 ,|USA| NBA 1 MATCH EVENT
 http://185.23.213.162:8789/live/ania/ania/24090.m3u8
-#EXTINF:-1 ,|USA| NBA 11
-http://185.23.213.162:8789/live/ania/ania/24080.m3u8
 #EXTINF:-1 ,|USA| Viceland
 http://185.23.213.162:8789/live/ania/ania/24041.m3u8
 #EXTINF:-1 ,|USA| FREEFROM
 http://185.23.213.162:8789/live/ania/ania/24039.m3u8
-#EXTINF:-1 ,|USA| DISCOVERY ID HD
-http://185.23.213.162:8789/live/ania/ania/24030.m3u8
 #EXTINF:-1 ,|USA| MTV
 http://185.23.213.162:8789/live/ania/ania/24019.m3u8
-#EXTINF:-1 ,GINX (CDN) – NEW
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/67115
-#EXTINF:-1 ,EPIC MEAL TIME 24X7
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/6129
-#EXTINF:-1 ,MOTOR TREND HD
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/367
-#EXTINF:-1 ,VICELAND HD
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/323
-#EXTINF:-1 ,AMC HD
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/334
-#EXTINF:-1 ,ELREY HD – NEW
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/10046
-#EXTINF:-1 ,WGN HD – NEW
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/9163
-#EXTINF:-1 ,SYFY HD
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/339
-#EXTINF:-1 ,WE TV HD
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/342
-#EXTINF:-1 ,SHOWCASE HD
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/346
 #EXTINF:-1 ,RT DOCUMENTARY
 https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8?stream_start_offset=14000000&stream_dvr_window=0
 #EXTINF:-1 ,US: USA Network
@@ -1733,8 +1651,6 @@ http://iptvsmarters.cc:25461/live/serkan/yilmaz/2166.ts
 http://iptvsmarters.cc:25461/live/serkan/yilmaz/2165.ts
 #EXTINF:-1 ,RT DOCUMENTARY
 https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8?stream_start_offset=14000000&stream_dvr_window=0
-#EXTINF:-1 ,BABY EINSTEIN 24X7
-http://ok2.se:8000/3597F7UQDtgU46pEn/f6f3F9U8BN5qipWJL/8089
 #EXTINF:-1 ,ITV1 London
 http://81.174.157.160:9981/stream/channelid/1985740938
 #EXTINF:-1 ,Channel 4
@@ -1747,62 +1663,14 @@ http://81.174.157.160:9981/stream/channelid/1584711473
 http://81.174.157.160:9981/stream/channelid/500052075
 #EXTINF:-1 ,Channel 4+1
 http://81.174.157.160:9981/stream/channelid/1406739526
-#EXTINF:-1 ,QVC
-http://81.174.157.160:9981/stream/channelid/1431886797
 #EXTINF:-1 ,More 4
 http://81.174.157.160:9981/stream/channelid/61360279
 #EXTINF:-1 ,ITV4
 http://81.174.157.160:9981/stream/channelid/1381801009
-#EXTINF:-1 ,Yesterday
-http://81.174.157.160:9981/stream/channelid/2054943296
 #EXTINF:-1 ,E4 +1
 http://81.174.157.160:9981/stream/channelid/773405399
 #EXTINF:-1 ,ITV +1
 http://81.174.157.160:9981/stream/channelid/244849245
-#EXTINF:-1 ,DMAX
-http://81.174.157.160:9981/stream/channelid/846446228
-#EXTINF:-1 ,Quest Red
-http://81.174.157.160:9981/stream/channelid/2008479729
-#EXTINF:-1 ,CBS Justice
-http://81.174.157.160:9981/stream/channelid/274800913
-#EXTINF:-1 ,Dave ja vu
-http://81.174.157.160:9981/stream/channelid/1331231298
-#EXTINF:-1 ,BBC NEWS
-http://81.174.157.160:9981/stream/channelid/336087632
-#EXTINF:-1 ,BBC Parliament
-http://81.174.157.160:9981/stream/channelid/146661154
-#EXTINF:-1 ,News
-http://81.174.157.160:9981/stream/channelid/700044145
-#EXTINF:-1 ,BBC Radio 1
-http://81.174.157.160:9981/stream/channelid/896302654
-#EXTINF:-1 ,BBC R1X
-http://81.174.157.160:9981/stream/channelid/527083932
-#EXTINF:-1 ,BBC Radio 2
-http://81.174.157.160:9981/stream/channelid/663681774
-#EXTINF:-1 ,BBC Radio 3
-http://81.174.157.160:9981/stream/channelid/648619298
-#EXTINF:-1 ,BBC Radio 4
-http://81.174.157.160:9981/stream/channelid/779303821
-#EXTINF:-1 ,BBC R5SX
-http://81.174.157.160:9981/stream/channelid/408408903
-#EXTINF:-1 ,BBC 6 Music
-http://81.174.157.160:9981/stream/channelid/1276445723
-#EXTINF:-1 ,BBC Radio 4 Ex
-http://81.174.157.160:9981/stream/channelid/1736461982
-#EXTINF:-1 ,BBC Asian Net.
-http://81.174.157.160:9981/stream/channelid/2051638824
-#EXTINF:-1 ,BBC World Sv.
-http://81.174.157.160:9981/stream/channelid/561230119
-#EXTINF:-1 ,Hits Radio
-http://81.174.157.160:9981/stream/channelid/1698336110
-#EXTINF:-1 group-title="News",RT Arabic
-http://rt-arab.secure.footprint.net:80/1104_2500Kb.m3u8
-#EXTINF:-1 group-title="News",RT Français
-http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
-#EXTINF:-1 group-title="News",RT Español
-http://rt-esp.secure.footprint.net:80/1102_2500Kb.m3u8
-#EXTINF:-1 group-title="News",Sky News UK
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 group-title="News",Telesur
 http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="News",Telesur English
@@ -1841,16 +1709,10 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 group-title="Financial News",Fox Business
 http://live.fadev.club/live/FOXB/chunks.m3u8
-#EXTINF:-1 group-title="Financial News",MSNBC
-https://1686983180.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Financial News",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 #EXTINF:-1 group-title="Financial News",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/masterb_480p@2.m3u8
-#EXTINF:-1 group-title="Spain",ES: LA 1 HD
-http://world-iptv.net:8080/GPRTM1F4nH/X3FGre6xYJ/3364
-#EXTINF:-1 group-title="Spain",ES: LA 2
-http://world-iptv.net:8080/GPRTM1F4nH/X3FGre6xYJ/622
 #EXTINF:-1 group-title="INDONESIA NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA NEWS",Kompas TV
@@ -1867,14 +1729,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
 #EXTINF:-1 group-title="INDONESIA NEWS",TV Parlemen
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="LOCAL",iNews
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:-1 group-title="LOCAL",RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 group-title="LOCAL",MNC TV
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 group-title="LOCAL",GTV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 group-title="LOCAL",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 group-title="LOCAL",INTV
@@ -2167,8 +2021,6 @@ http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",BMW TV
 http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="NINMEDIA",TABALONG TV
-http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",RUMAH TV
@@ -2609,8 +2461,6 @@ http://185.23.213.162:8789/ania/ania/23170
 http://185.23.213.162:8789/ania/ania/23169
 #EXTINF:-1 ,|ES| CUATRO FHD
 http://185.23.213.162:8789/ania/ania/23168
-#EXTINF:-1 ,|ES| CUATRO
-http://185.23.213.162:8789/ania/ania/23167
 #EXTINF:-1 ,|ES| TELECINCO HD
 http://185.23.213.162:8789/ania/ania/23166
 #EXTINF:-1 ,|ES| TELECINCO
@@ -2627,12 +2477,8 @@ http://185.23.213.162:8789/ania/ania/23161
 http://185.23.213.162:8789/ania/ania/23160
 #EXTINF:-1 ,|ES| CANAL 24 HORAS
 http://185.23.213.162:8789/ania/ania/23157
-#EXTINF:-1 ,|ES| FOX NEWS
-http://185.23.213.162:8789/ania/ania/23156
 #EXTINF:-1 ,|ES| M DEPORTES 1 HD
 http://185.23.213.162:8789/ania/ania/14065
-#EXTINF:-1 ,|ES| M DEPORTES 2
-http://185.23.213.162:8789/ania/ania/14064
 #EXTINF:-1 ,|ES| M DEPORTES 2 HD
 http://185.23.213.162:8789/ania/ania/14062
 #EXTINF:-1 ,|ES| TOROS FHD
@@ -2651,8 +2497,6 @@ http://185.23.213.162:8789/ania/ania/14077
 http://185.23.213.162:8789/ania/ania/14075
 #EXTINF:-1 ,|ES| M beIN LALIGA FHD
 http://185.23.213.162:8789/ania/ania/14073
-#EXTINF:-1 ,|ES| M LALIGA TV BAR
-http://185.23.213.162:8789/ania/ania/14072
 #EXTINF:-1 ,|ES| M LALIGA TV Bar HD
 http://185.23.213.162:8789/ania/ania/14071
 #EXTINF:-1 ,|ES| M REAL MADRID TV
@@ -2729,8 +2573,6 @@ http://185.23.213.162:8789/ania/ania/23122
 http://185.23.213.162:8789/ania/ania/23121
 #EXTINF:-1 ,|ES|  COSMO FHD
 http://185.23.213.162:8789/ania/ania/23120
-#EXTINF:-1 ,|ES| MEGA TV HD
-http://185.23.213.162:8789/ania/ania/23119
 #EXTINF:-1 ,|ES| M DECASA
 http://185.23.213.162:8789/ania/ania/23118
 #EXTINF:-1 ,|ES| CANAL ODISEA
@@ -2755,14 +2597,6 @@ http://185.23.213.162:8789/ania/ania/23105
 http://185.23.213.162:8789/ania/ania/23104
 #EXTINF:-1 ,|ES| NICKELODEON FHD
 http://185.23.213.162:8789/ania/ania/23102
-#EXTINF:-1 ,|ES| NICKELODEON FHD
-http://185.23.213.162:8789/ania/ania/23101
-#EXTINF:-1 ,|ES| NICK JR
-http://185.23.213.162:8789/ania/ania/23100
-#EXTINF:-1 ,|ES| DISNEY XD
-http://185.23.213.162:8789/ania/ania/23099
-#EXTINF:-1 ,|ES| DISNEY CHANNEL HD
-http://185.23.213.162:8789/ania/ania/23098
 #EXTINF:-1 ,|ES| DISNEY  JUNIOR
 http://185.23.213.162:8789/ania/ania/23097
 #EXTINF:-1 ,|ES| CANAL PANDA
@@ -2897,8 +2731,6 @@ http://video.oct.dc.gov/out/u/15_12.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 #EXTINF:-1 group-title="Entertainment",WGN 9 Chicago
 https://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1 group-title="News",WRAL-TV
-https://media-hls.wral.com/livehttporigin/_definst_/mp4:encoder25-medium/master.m3u8
 #EXTINF:-1 group-title="News",teleSUR
 https://d7g1ebft2592.cloudfront.net/mblivev3/480p/playlist.m3u8
 #EXTINF:-1 group-title="News",CGTN (ENGLISH)
@@ -4257,8 +4089,6 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8?fluxustv.m3u8
 http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
 #EXTINF:-1 group-title="BELGIUM",Canvas
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="BELGIUM",City Music TV
-http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 #EXTINF:-1 group-title="BELGIUM",Een
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="BELGIUM",Focus
@@ -4417,16 +4247,12 @@ https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 http://connectiktv.ddns.net:5000/bikutsitv/bikutsi_360p+SD/chunklist.m3u8
 #EXTINF:-1 group-title="CAMEROON",Dream Channel
 http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
-#EXTINF:-1 group-title="CAMEROON",Generation Change TV
-https://5c4984c4d9146.streamlock.net:1937/live/ngrp:GCTV_all/chunklist.m3u8
 #EXTINF:-1 group-title="CAMEROON",Hip Hop TV
 http://connectiktv.ddns.net:5000/hiphoptv/hiphoptv/chunklist.m3u8
 #EXTINF:-1 group-title="CAMEROON",MyTV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
 #EXTINF:-1 group-title="CAMEROON",Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-#EXTINF:-1 group-title="CAMEROON",Top Movies
-http://connectiktv.ddns.net:5000/toptv/toptv/chunklist.m3u8
 #EXTINF:-1 group-title="CAMEROON",Vision 4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
 #EXTINF:-1 group-title="RWANDA",Rwanda TV (Opt-1)
@@ -4443,8 +4269,6 @@ http://162.212.178.131:1935/live/Ai2tvmusique/chunklist.m3u8
 http://162.212.178.131:1935/live/Ai2tv/chunklist.m3u8
 #EXTINF:-1 group-title="SENEGAL",Leeeko TV
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
-#EXTINF:-1 group-title="SENEGAL",TMS
-https://58e4d59f4ba2c.streamlock.net/rezopropartner_1/rezopropartner_1/chunklist.m3u8
 #EXTINF:-1 group-title="TOGO",NW TV 1
 https://hls.newworldtv.com/nw-info/video/live_1024x576.m3u8
 #EXTINF:-1 group-title="TOGO",NW TV 2
@@ -4637,8 +4461,6 @@ http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY",Radio Siena TV
 http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY",Radio Studio 7
-https://flash7.xdevel.com/studio7mctv/studio7mctv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY",Radio Zeta TV
 https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY",Radiofreccia
@@ -4797,10 +4619,6 @@ http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8?fluxustv.m3u8
 https://streaming.wim.tv/live/_definst_/digitaleterrestre_aac/chunklist_w1449526911.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY",TSN Sondrio
 http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1 group-title="ITALY",TSN Lecco (Opt-1)
-http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
-#EXTINF:-1 group-title="ITALY",TSN Lecco (Opt-2)
-http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
 #EXTINF:-1 group-title="ITALY",TV Campane 1 Napoli
 http://tvcampane1.srfms.com:1935/tvcampane1/livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY",TV Campane Gold
@@ -4891,8 +4709,6 @@ http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 http://videos.nosi.cv/tcvi/smil:tcvilive.smil/chunklist_w603066147_b25128000_sleng.m3u8
 #EXTINF:-1 group-title="BRAZIL",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
-#EXTINF:-1 group-title="BRAZIL",Agro Canal
-https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist.m3u8
 #EXTINF:-1 group-title="BRAZIL",All Sports
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 group-title="BRAZIL",Canal 24 Horas
@@ -5009,8 +4825,6 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve04_lv3_a
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8
 #EXTINF:-1 group-title="SPAIN",7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 group-title="SPAIN",8 Cadiz TV
-https://5940924978228.streamlock.net/8289/smil:8289.smil/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="SPAIN",24 Horas (Opt-1)
 http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1 group-title="SPAIN",24 Horas (Opt-2)
@@ -5047,8 +4861,6 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 http://linear01-i.akamaihd.net/hls/live/837814/boing/master.m3u8
 #EXTINF:-1 group-title="SPAIN",Cadena Elite
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN",Canal 4 Baleares
-http://149.202.68.178:1935/live/peprecasens/manifest.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="SPAIN",Canal 4 Mancha Centro
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="SPAIN",Canal 10 Emporda
@@ -5177,8 +4989,6 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?fluxustv
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN",Noroeste TV
 https://5b38ce71f1f00.streamlock.net/8046/8046/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN",Oizmendi Telebista
-https://5940924978228.streamlock.net/8161/8161/master.m3u8
 #EXTINF:-1 group-title="SPAIN",Onda Algeciras TV
 http://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="SPAIN",Onda Madrid
@@ -5257,10 +5067,6 @@ http://hellin-hls-live.flumotion.com/hellin/hellin-live_source/playlist.m3u8?flu
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
 #EXTINF:-1 group-title="SPAIN",TV Melilla
 http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/live_source/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN",TV Municipal Cordoba (Opt-1)
-http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN",TV Municipal Cordoba (Opt-2)
-http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN",TV4 La Vall
 https://common01.todostreaming.es/live/tarson-livestream.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="SPAIN",tvA
@@ -5313,8 +5119,6 @@ http://livefr.cgtn.com/1000e/prog_index.m3u8
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 group-title="LATIN AMERICA",La Mega Mundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 group-title="LATIN AMERICA",Locomotion TV
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
 #EXTINF:-1 group-title="LATIN AMERICA",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1 group-title="LATIN AMERICA",MTV (Opt-1)
@@ -5347,8 +5151,6 @@ http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 10 Cancun (Opt-2)
 http://www.canal10.tv/live/tvlive1/chunklist_w1166915179.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 10 Chiapas
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 10 Durango
 http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 15 Zacatecas
@@ -5429,8 +5231,6 @@ https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
 #EXTINF:-1 group-title="ARGENTINA",13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
-#EXTINF:-1 group-title="ARGENTINA",5TV Corrientes
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 #EXTINF:-1 group-title="ARGENTINA",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 group-title="ARGENTINA",Argentinisima Satelital
@@ -5757,8 +5557,6 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 group-title="COSTA RICA",TV Sur 14
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Acento TV
-http://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Ame 47
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Bonao TV Canal 12
@@ -5787,8 +5585,6 @@ http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Info TDN
 http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Linieros TV 36
-http://cm.hostlagarto.com:8081/LinierosTV/linieros.myStream/chunks.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Luna TV
 http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Mango TV
@@ -5799,8 +5595,6 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Orbit Cable
 http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Peravia Vision 8
-http://ss6.domint.net:2002/pvv_str/peravia/chunklist_w715033938.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Puñal TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Ready TV
@@ -5865,8 +5659,6 @@ http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 #EXTINF:-1 group-title="HONDURAS",Cholusat Sur 36 (New!)
 http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
-#EXTINF:-1 group-title="HONDURAS",Maya TV (New!)
-https://5d00db0e0fcd5.streamlock.net/7202/7202/chunklist_w1126895649.m3u8
 #EXTINF:-1 group-title="HONDURAS",Q'hubo TV
 http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
 #EXTINF:-1 group-title="HONDURAS",Sercano TV
@@ -5913,8 +5705,6 @@ http://186.121.206.197/live/daniel/index.m3u8
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="BOLIVIA",Bolivia TV
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/chunklist.m3u8
-#EXTINF:-1 group-title="BOLIVIA",Bolivision
-http://136.243.3.70:1935/Bolivision/Bolivision/chunklist_w1258803449.m3u8
 #EXTINF:-1 group-title="BOLIVIA",Catolica TV
 http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
 #EXTINF:-1 group-title="BOLIVIA",Mega TV
@@ -5923,8 +5713,6 @@ http://hdp2.imd.la:1935/megatv/megatv/playlist.m3u8
 http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
 #EXTINF:-1 group-title="BOLIVIA",Red PAT Santa Cruz
 http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
-#EXTINF:-1 group-title="BOLIVIA",Red Uno
-http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
 #EXTINF:-1 group-title="BOLIVIA",RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 group-title="BOLIVIA",Unitel
@@ -6155,8 +5943,6 @@ https://puma.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yzg0yt240/index.m
 http://now.tf.rs/2016/11/3/RETROSPEKTIVA_0211/RETROSPEKTIVA_0211.m3u8
 #EXTINF:-1 group-title="SERBIA",TV Leskovac
 http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
-#EXTINF:-1 group-title="SERBIA",TV Puls
-http://stream.rtvpuls.com/broadcasting
 #EXTINF:-1 group-title="SERBIA",TVKopernikus 1
 http://212.200.102.3:5000/rtp/239.0.0.1:5000
 #EXTINF:-1 group-title="SERBIA",TVKopernikus 2
@@ -7355,8 +7141,6 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
 #EXTINF:-1 group-title="INDIA",Aaj Tak (Opt-1)
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:-1 group-title="INDIA",Aaj Tak (Opt-2)
-http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L240P/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",Aaryaa TV
 http://150.242.21.2/aaryaa.m3u8
 #EXTINF:-1 group-title="INDIA",ABP Asmita (New!)
@@ -7453,8 +7237,6 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 http://playhls.media.nic.in/live/vyas-360p/index.m3u8
 #EXTINF:-1 group-title="INDIA",Desi Channel (Opt-1)
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="INDIA",Desi TV USA
-http://cdn30.liveonlineservices.com/hls/desitv.m3u8
 #EXTINF:-1 group-title="INDIA",Desi Plus TV (CA) (New!)
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",Dhamaal (New!)
@@ -7599,8 +7381,6 @@ https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master.m3u8
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIA",PBN Music (USA)
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
-#EXTINF:-1 group-title="INDIA",Powervision TV
-https://vstream.online:7443/pvtv/ngrp:pvtv_all/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",Pratidin Time (New!)
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",Prudent Media (New!)
@@ -7649,8 +7429,6 @@ http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 #EXTINF:-1 group-title="INDIA",Suvarna News 24×7 (New!)
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-#EXTINF:-1 group-title="INDIA",Taaza TV
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",Tamil Business TV (DE)
 http://rtmp.santhoratv.zecast.net/tamilbusinesstv//tamilbusinesstv/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",Tamil Vision Int'l (CA) (SD)
@@ -7687,8 +7465,6 @@ https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
 https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 #EXTINF:-1 group-title="INDIA",Vismaya TV
 http://150.242.21.2/vismaya.m3u8
-#EXTINF:-1 group-title="INDIA",Wathanam TV (New!)
-http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
 #EXTINF:-1 group-title="INDIA",Surya Music (Opt-1) (New!)
 http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/index.m3u8
 #EXTINF:-1 group-title="INDIA",Surya Music (Opt-2) (New!)
@@ -7791,8 +7567,6 @@ https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u
 https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IRAN",IRIB TV1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IRAN",IRIB TV2
-https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IRAN",IRIB TV4
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IRAN",IRIB TV3 (New!)
@@ -7847,8 +7621,6 @@ http://51.15.236.137/hls/stream.m3u8
 http://1-fss27-s0.streamhoster.com/lv_kabultv/_definst_/kabultvus/chunklist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Kayhan TV
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",Shamshad TV
-http://109.123.70.27:1935/shamshadtelevision/shamshadtelevision/chunklist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Tuti TV
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-E-Maa TV
@@ -7873,8 +7645,6 @@ http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="24/7 ARABIC NEWS",France 24 (FR)
 http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="24/7 ARABIC NEWS",Sky News (GB)
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 group-title="24/7 ARABIC NEWS",TRT (TR)
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="LEBANON",Aghani Aghani (New!)
@@ -8329,8 +8099,6 @@ https://ap01.iqplay.tv:81/iqb8002/somc131.m3u8
 https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
 #EXTINF:-1 group-title="ETHIOPIA",Addis TV
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
-#EXTINF:-1 group-title="KENYA",Kass TV
-http://197.232.56.13:1935/live/_definst_/kasstv/playlist.m3u8
 #EXTINF:-1 group-title="TANZANIA",SABC 3
 http://154.72.21.249/hdmi
 #EXTINF:-1 group-title="PHILIPPINES",Central Luzon TV 36
@@ -8493,8 +8261,6 @@ http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="INDONESIA",SCTV (Opt-4)
 http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="INDONESIA",Tegar TV Lampung
-http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
 #EXTINF:-1 group-title="INDONESIA",The Indonesia Channel
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="INDONESIA",Trans 7 (Opt-1)
@@ -8535,8 +8301,6 @@ https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="LAOS",MVTV
 https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1228847336.m3u8
-#EXTINF:-1 group-title="THAILAND",13 Siam TV
-http://203.154.83.176:1935/live/13wDt2b6g4/playlist.m3u8
 #EXTINF:-1 group-title="THAILAND",69 TV
 https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w559182369.m3u8
 #EXTINF:-1 group-title="THAILAND",bTV News
@@ -10115,388 +9879,6 @@ http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 group-title="GERMANY",QVC
 http://ios-stream.qvc.de/qvc.m3u8
-#EXTINF:-1 ,Sat Hd 1
-http://303tv.net:8080/barissen12/24082019adpara/222
-#EXTINF:-1 ,Sat 1 Gold
-http://303tv.net:8080/barissen12/24082019adpara/240
-#EXTINF:-1 ,Sat 1 Hd
-http://303tv.net:8080/barissen12/24082019adpara/243
-#EXTINF:-1 ,Rtl Crime Hd
-http://303tv.net:8080/barissen12/24082019adpara/266
-#EXTINF:-1 ,Rtl Hd
-http://303tv.net:8080/barissen12/24082019adpara/265
-#EXTINF:-1 ,Rtl Living
-http://303tv.net:8080/barissen12/24082019adpara/269
-#EXTINF:-1 ,Rtl Nitro
-http://303tv.net:8080/barissen12/24082019adpara/263
-#EXTINF:-1 ,Rtl Television
-http://303tv.net:8080/barissen12/24082019adpara/268
-#EXTINF:-1 ,Rtl Hd 2
-http://303tv.net:8080/barissen12/24082019adpara/264
-#EXTINF:-1 ,Rtl Ii Hd
-http://303tv.net:8080/barissen12/24082019adpara/267
-#EXTINF:-1 ,Rtl Plus
-http://303tv.net:8080/barissen12/24082019adpara/262
-#EXTINF:-1 ,Pro 7 Hd
-http://303tv.net:8080/barissen12/24082019adpara/270
-#EXTINF:-1 ,Pro7 Maxx
-http://303tv.net:8080/barissen12/24082019adpara/271
-#EXTINF:-1 ,ProSieben
-http://303tv.net:8080/barissen12/24082019adpara/227
-#EXTINF:-1 ,Zdf Hd
-http://303tv.net:8080/barissen12/24082019adpara/229
-#EXTINF:-1 ,Zdf.
-http://303tv.net:8080/barissen12/24082019adpara/202
-#EXTINF:-1 ,Zdf Neo
-http://303tv.net:8080/barissen12/24082019adpara/218
-#EXTINF:-1 ,Zdf Info
-http://303tv.net:8080/barissen12/24082019adpara/228
-#EXTINF:-1 ,Syfy Hd
-http://303tv.net:8080/barissen12/24082019adpara/192
-#EXTINF:-1 ,Tlc
-http://303tv.net:8080/barissen12/24082019adpara/273
-#EXTINF:-1 ,Vox Hd
-http://303tv.net:8080/barissen12/24082019adpara/230
-#EXTINF:-1 ,Das Erste
-http://303tv.net:8080/barissen12/24082019adpara/29591
-#EXTINF:-1 ,Vox
-http://303tv.net:8080/barissen12/24082019adpara/216
-#EXTINF:-1 ,Wdr
-http://303tv.net:8080/barissen12/24082019adpara/191
-#EXTINF:-1 ,Wdr Hd
-http://303tv.net:8080/barissen12/24082019adpara/217
-#EXTINF:-1 ,Ndr Hd
-http://303tv.net:8080/barissen12/24082019adpara/13122
-#EXTINF:-1 ,13th Street HD
-http://303tv.net:8080/barissen12/24082019adpara/233
-#EXTINF:-1 ,Servus TV
-http://303tv.net:8080/barissen12/24082019adpara/4561
-#EXTINF:-1 ,Ard HD
-http://303tv.net:8080/barissen12/24082019adpara/231
-#EXTINF:-1 ,Arte / Ard
-http://303tv.net:8080/barissen12/24082019adpara/196
-#EXTINF:-1 ,Axn Hd
-http://303tv.net:8080/barissen12/24082019adpara/223
-#EXTINF:-1 ,Fox  HD
-http://303tv.net:8080/barissen12/24082019adpara/225
-#EXTINF:-1 ,N24
-http://303tv.net:8080/barissen12/24082019adpara/234
-#EXTINF:-1 ,Ndr HD
-http://303tv.net:8080/barissen12/24082019adpara/226
-#EXTINF:-1 ,Orf 1
-http://303tv.net:8080/barissen12/24082019adpara/20037
-#EXTINF:-1 ,3 Sat Hd
-http://303tv.net:8080/barissen12/24082019adpara/4875
-#EXTINF:-1 ,Romance TV
-http://303tv.net:8080/barissen12/24082019adpara/219
-#EXTINF:-1 ,Sixx
-http://303tv.net:8080/barissen12/24082019adpara/190
-#EXTINF:-1 ,Kabel 1 Doku
-http://303tv.net:8080/barissen12/24082019adpara/10418
-#EXTINF:-1 ,Kabel 1 HD
-http://303tv.net:8080/barissen12/24082019adpara/10417
-#EXTINF:-1 ,Phoenix
-http://303tv.net:8080/barissen12/24082019adpara/20826
-#EXTINF:-1 ,------| Kino |------
-http://303tv.net:8080/barissen12/24082019adpara/10881
-#EXTINF:-1 ,Sky Cinema+1
-http://303tv.net:8080/barissen12/24082019adpara/250
-#EXTINF:-1 ,Sky Action HD.
-http://303tv.net:8080/barissen12/24082019adpara/248
-#EXTINF:-1 ,Sky Action HD
-http://303tv.net:8080/barissen12/24082019adpara/254
-#EXTINF:-1 ,Sky Comedy
-http://303tv.net:8080/barissen12/24082019adpara/256
-#EXTINF:-1 ,Sky Emotion
-http://303tv.net:8080/barissen12/24082019adpara/249
-#EXTINF:-1 ,Sky Hits
-http://303tv.net:8080/barissen12/24082019adpara/258
-#EXTINF:-1 ,Sky Nostalgie
-http://303tv.net:8080/barissen12/24082019adpara/257
-#EXTINF:-1 ,Sky Cinema
-http://303tv.net:8080/barissen12/24082019adpara/251
-#EXTINF:-1 ,Sky Cinema HD
-http://303tv.net:8080/barissen12/24082019adpara/255
-#EXTINF:-1 ,Sky Krimi
-http://303tv.net:8080/barissen12/24082019adpara/259
-#EXTINF:-1 ,Sky Atlantic HD
-http://303tv.net:8080/barissen12/24082019adpara/253
-#EXTINF:-1 ,Sky Cinema+24
-http://303tv.net:8080/barissen12/24082019adpara/252
-#EXTINF:-1 ,Tnt Film Hd
-http://303tv.net:8080/barissen12/24082019adpara/245
-#EXTINF:-1 ,Tnt Serie Hd.
-http://303tv.net:8080/barissen12/24082019adpara/246
-#EXTINF:-1 ,Tnt Serie Hd
-http://303tv.net:8080/barissen12/24082019adpara/197
-#EXTINF:-1 ,TNT Comedy
-http://303tv.net:8080/barissen12/24082019adpara/29590
-#EXTINF:-1 ,------| Select |------
-http://303tv.net:8080/barissen12/24082019adpara/10886
-#EXTINF:-1 ,Sky Select HD 1
-http://303tv.net:8080/barissen12/24082019adpara/210
-#EXTINF:-1 ,Sky Select HD 2
-http://303tv.net:8080/barissen12/24082019adpara/209
-#EXTINF:-1 ,Sky Select HD 3
-http://303tv.net:8080/barissen12/24082019adpara/208
-#EXTINF:-1 ,Sky Select HD 4
-http://303tv.net:8080/barissen12/24082019adpara/207
-#EXTINF:-1 ,Sky Select HD 5
-http://303tv.net:8080/barissen12/24082019adpara/206
-#EXTINF:-1 ,Sky Select HD 6
-http://303tv.net:8080/barissen12/24082019adpara/205
-#EXTINF:-1 ,Sky Select HD 7
-http://303tv.net:8080/barissen12/24082019adpara/204
-#EXTINF:-1 ,Sky Select HD 8
-http://303tv.net:8080/barissen12/24082019adpara/203
-#EXTINF:-1 ,------| Doku |------
-http://303tv.net:8080/barissen12/24082019adpara/10883
-#EXTINF:-1 ,D Max Hd
-http://303tv.net:8080/barissen12/24082019adpara/200
-#EXTINF:-1 ,Sky Natgeo Wild Hd
-http://303tv.net:8080/barissen12/24082019adpara/244
-#EXTINF:-1 ,Discovery Channel Hd
-http://303tv.net:8080/barissen12/24082019adpara/185
-#EXTINF:-1 ,History Channel Hd
-http://303tv.net:8080/barissen12/24082019adpara/199
-#EXTINF:-1 ,National Geographic
-http://303tv.net:8080/barissen12/24082019adpara/184
-#EXTINF:-1 ,Discovery Channel
-http://303tv.net:8080/barissen12/24082019adpara/4877
-#EXTINF:-1 ,Animal Planet HD
-http://303tv.net:8080/barissen12/24082019adpara/4876
-#EXTINF:-1 ,------| Kinder |------
-http://303tv.net:8080/barissen12/24082019adpara/10882
-#EXTINF:-1 ,Super Rtl
-http://303tv.net:8080/barissen12/24082019adpara/260
-#EXTINF:-1 ,Disney Channel.
-http://303tv.net:8080/barissen12/24082019adpara/198
-#EXTINF:-1 ,Disney Junior
-http://303tv.net:8080/barissen12/24082019adpara/195
-#EXTINF:-1 ,Kika
-http://303tv.net:8080/barissen12/24082019adpara/272
-#EXTINF:-1 ,Heimat Kanal
-http://303tv.net:8080/barissen12/24082019adpara/188
-#EXTINF:-1 ,------| Sport |------
-http://303tv.net:8080/barissen12/24082019adpara/10885
-#EXTINF:-1 ,Sky Sport HD 1
-http://303tv.net:8080/barissen12/24082019adpara/238
-#EXTINF:-1 ,Sky Sport HD 2
-http://303tv.net:8080/barissen12/24082019adpara/237
-#EXTINF:-1 ,Sky Sport News HD
-http://303tv.net:8080/barissen12/24082019adpara/214
-#EXTINF:-1 ,Sky Sport Austria HD
-http://303tv.net:8080/barissen12/24082019adpara/213
-#EXTINF:-1 ,Sky Bundesliga 1
-http://303tv.net:8080/barissen12/24082019adpara/215
-#EXTINF:-1 ,Sky Bundesliga HD 1
-http://303tv.net:8080/barissen12/24082019adpara/649
-#EXTINF:-1 ,Sky Bundesliga HD 2
-http://303tv.net:8080/barissen12/24082019adpara/648
-#EXTINF:-1 ,Eurosport 2 Xtra
-http://303tv.net:8080/barissen12/24082019adpara/4878
-#EXTINF:-1 ,Eurosport 1 HD
-http://303tv.net:8080/barissen12/24082019adpara/236
-#EXTINF:-1 ,Eurosport 2 HD
-http://303tv.net:8080/barissen12/24082019adpara/235
-#EXTINF:-1 ,Sport1+ HD
-http://303tv.net:8080/barissen12/24082019adpara/211
-#EXTINF:-1 ,Dazn 1 HD
-http://303tv.net:8080/barissen12/24082019adpara/20017
-#EXTINF:-1 ,Dazn 2 HD
-http://303tv.net:8080/barissen12/24082019adpara/20018
-#EXTINF:-1 ,Sat Hd 1
-http://303tv.net:8080/barissen12/24082019adpara/222
-#EXTINF:-1 ,Sat 1 Gold
-http://303tv.net:8080/barissen12/24082019adpara/240
-#EXTINF:-1 ,Sat 1 Hd
-http://303tv.net:8080/barissen12/24082019adpara/243
-#EXTINF:-1 ,Rtl Crime Hd
-http://303tv.net:8080/barissen12/24082019adpara/266
-#EXTINF:-1 ,Rtl Hd
-http://303tv.net:8080/barissen12/24082019adpara/265
-#EXTINF:-1 ,Rtl Living
-http://303tv.net:8080/barissen12/24082019adpara/269
-#EXTINF:-1 ,Rtl Nitro
-http://303tv.net:8080/barissen12/24082019adpara/263
-#EXTINF:-1 ,Rtl Passion
-http://303tv.net:8080/barissen12/24082019adpara/261
-#EXTINF:-1 ,Rtl Television
-http://303tv.net:8080/barissen12/24082019adpara/268
-#EXTINF:-1 ,Rtl Hd 2
-http://303tv.net:8080/barissen12/24082019adpara/264
-#EXTINF:-1 ,Rtl Ii Hd
-http://303tv.net:8080/barissen12/24082019adpara/267
-#EXTINF:-1 ,Rtl Plus
-http://303tv.net:8080/barissen12/24082019adpara/262
-#EXTINF:-1 ,Pro 7 Hd
-http://303tv.net:8080/barissen12/24082019adpara/270
-#EXTINF:-1 ,Pro7 Maxx
-http://303tv.net:8080/barissen12/24082019adpara/271
-#EXTINF:-1 ,ProSieben
-http://303tv.net:8080/barissen12/24082019adpara/227
-#EXTINF:-1 ,Zdf Hd
-http://303tv.net:8080/barissen12/24082019adpara/229
-#EXTINF:-1 ,Zdf.
-http://303tv.net:8080/barissen12/24082019adpara/202
-#EXTINF:-1 ,Zdf Neo
-http://303tv.net:8080/barissen12/24082019adpara/218
-#EXTINF:-1 ,Zdf Info
-http://303tv.net:8080/barissen12/24082019adpara/228
-#EXTINF:-1 ,Syfy Hd
-http://303tv.net:8080/barissen12/24082019adpara/192
-#EXTINF:-1 ,Tlc
-http://303tv.net:8080/barissen12/24082019adpara/273
-#EXTINF:-1 ,Vox Hd
-http://303tv.net:8080/barissen12/24082019adpara/230
-#EXTINF:-1 ,Das Erste
-http://303tv.net:8080/barissen12/24082019adpara/29591
-#EXTINF:-1 ,Vox
-http://303tv.net:8080/barissen12/24082019adpara/216
-#EXTINF:-1 ,Wdr
-http://303tv.net:8080/barissen12/24082019adpara/191
-#EXTINF:-1 ,Wdr Hd
-http://303tv.net:8080/barissen12/24082019adpara/217
-#EXTINF:-1 ,Ndr Hd
-http://303tv.net:8080/barissen12/24082019adpara/13122
-#EXTINF:-1 ,13th Street HD
-http://303tv.net:8080/barissen12/24082019adpara/233
-#EXTINF:-1 ,Servus TV
-http://303tv.net:8080/barissen12/24082019adpara/4561
-#EXTINF:-1 ,Ard HD
-http://303tv.net:8080/barissen12/24082019adpara/231
-#EXTINF:-1 ,Arte / Ard
-http://303tv.net:8080/barissen12/24082019adpara/196
-#EXTINF:-1 ,Axn Hd
-http://303tv.net:8080/barissen12/24082019adpara/223
-#EXTINF:-1 ,Fox  HD
-http://303tv.net:8080/barissen12/24082019adpara/225
-#EXTINF:-1 ,N24
-http://303tv.net:8080/barissen12/24082019adpara/234
-#EXTINF:-1 ,Ndr HD
-http://303tv.net:8080/barissen12/24082019adpara/226
-#EXTINF:-1 ,Orf 1
-http://303tv.net:8080/barissen12/24082019adpara/20037
-#EXTINF:-1 ,3 Sat Hd
-http://303tv.net:8080/barissen12/24082019adpara/4875
-#EXTINF:-1 ,Romance TV
-http://303tv.net:8080/barissen12/24082019adpara/219
-#EXTINF:-1 ,Sixx
-http://303tv.net:8080/barissen12/24082019adpara/190
-#EXTINF:-1 ,Kabel 1 Doku
-http://303tv.net:8080/barissen12/24082019adpara/10418
-#EXTINF:-1 ,Kabel 1 HD
-http://303tv.net:8080/barissen12/24082019adpara/10417
-#EXTINF:-1 ,Phoenix
-http://303tv.net:8080/barissen12/24082019adpara/20826
-#EXTINF:-1 ,------| Kino |------
-http://303tv.net:8080/barissen12/24082019adpara/10881
-#EXTINF:-1 ,Sky Cinema+1
-http://303tv.net:8080/barissen12/24082019adpara/250
-#EXTINF:-1 ,Sky Action HD.
-http://303tv.net:8080/barissen12/24082019adpara/248
-#EXTINF:-1 ,Sky Action HD
-http://303tv.net:8080/barissen12/24082019adpara/254
-#EXTINF:-1 ,Sky Comedy
-http://303tv.net:8080/barissen12/24082019adpara/256
-#EXTINF:-1 ,Sky Emotion
-http://303tv.net:8080/barissen12/24082019adpara/249
-#EXTINF:-1 ,Sky Hits
-http://303tv.net:8080/barissen12/24082019adpara/258
-#EXTINF:-1 ,Sky Nostalgie
-http://303tv.net:8080/barissen12/24082019adpara/257
-#EXTINF:-1 ,Sky Cinema
-http://303tv.net:8080/barissen12/24082019adpara/251
-#EXTINF:-1 ,Sky Cinema HD
-http://303tv.net:8080/barissen12/24082019adpara/255
-#EXTINF:-1 ,Sky Krimi
-http://303tv.net:8080/barissen12/24082019adpara/259
-#EXTINF:-1 ,Sky Atlantic HD
-http://303tv.net:8080/barissen12/24082019adpara/253
-#EXTINF:-1 ,Sky Cinema+24
-http://303tv.net:8080/barissen12/24082019adpara/252
-#EXTINF:-1 ,Tnt Film Hd
-http://303tv.net:8080/barissen12/24082019adpara/245
-#EXTINF:-1 ,Tnt Serie Hd.
-http://303tv.net:8080/barissen12/24082019adpara/246
-#EXTINF:-1 ,Tnt Serie Hd
-http://303tv.net:8080/barissen12/24082019adpara/197
-#EXTINF:-1 ,TNT Comedy
-http://303tv.net:8080/barissen12/24082019adpara/29590
-#EXTINF:-1 ,------| Select |------
-http://303tv.net:8080/barissen12/24082019adpara/10886
-#EXTINF:-1 ,Sky Select HD 1
-http://303tv.net:8080/barissen12/24082019adpara/210
-#EXTINF:-1 ,Sky Select HD 2
-http://303tv.net:8080/barissen12/24082019adpara/209
-#EXTINF:-1 ,Sky Select HD 3
-http://303tv.net:8080/barissen12/24082019adpara/208
-#EXTINF:-1 ,Sky Select HD 4
-http://303tv.net:8080/barissen12/24082019adpara/207
-#EXTINF:-1 ,Sky Select HD 5
-http://303tv.net:8080/barissen12/24082019adpara/206
-#EXTINF:-1 ,Sky Select HD 6
-http://303tv.net:8080/barissen12/24082019adpara/205
-#EXTINF:-1 ,Sky Select HD 7
-http://303tv.net:8080/barissen12/24082019adpara/204
-#EXTINF:-1 ,Sky Select HD 8
-http://303tv.net:8080/barissen12/24082019adpara/203
-#EXTINF:-1 ,------| Doku |------
-http://303tv.net:8080/barissen12/24082019adpara/10883
-#EXTINF:-1 ,D Max Hd
-http://303tv.net:8080/barissen12/24082019adpara/200
-#EXTINF:-1 ,Sky Natgeo Wild Hd
-http://303tv.net:8080/barissen12/24082019adpara/244
-#EXTINF:-1 ,Discovery Channel Hd
-http://303tv.net:8080/barissen12/24082019adpara/185
-#EXTINF:-1 ,History Channel Hd
-http://303tv.net:8080/barissen12/24082019adpara/199
-#EXTINF:-1 ,National Geographic
-http://303tv.net:8080/barissen12/24082019adpara/184
-#EXTINF:-1 ,Discovery Channel
-http://303tv.net:8080/barissen12/24082019adpara/4877
-#EXTINF:-1 ,Animal Planet HD
-http://303tv.net:8080/barissen12/24082019adpara/4876
-#EXTINF:-1 ,------| Kinder |------
-http://303tv.net:8080/barissen12/24082019adpara/10882
-#EXTINF:-1 ,Super Rtl
-http://303tv.net:8080/barissen12/24082019adpara/260
-#EXTINF:-1 ,Disney Channel.
-http://303tv.net:8080/barissen12/24082019adpara/198
-#EXTINF:-1 ,Disney Junior
-http://303tv.net:8080/barissen12/24082019adpara/195
-#EXTINF:-1 ,Kika
-http://303tv.net:8080/barissen12/24082019adpara/272
-#EXTINF:-1 ,Heimat Kanal
-http://303tv.net:8080/barissen12/24082019adpara/188
-#EXTINF:-1 ,------| Sport |------
-http://303tv.net:8080/barissen12/24082019adpara/10885
-#EXTINF:-1 ,Sky Sport HD 1
-http://303tv.net:8080/barissen12/24082019adpara/238
-#EXTINF:-1 ,Sky Sport HD 2
-http://303tv.net:8080/barissen12/24082019adpara/237
-#EXTINF:-1 ,Sky Sport News HD
-http://303tv.net:8080/barissen12/24082019adpara/214
-#EXTINF:-1 ,Sky Sport Austria HD
-http://303tv.net:8080/barissen12/24082019adpara/213
-#EXTINF:-1 ,Sky Bundesliga 1
-http://303tv.net:8080/barissen12/24082019adpara/215
-#EXTINF:-1 ,Sky Bundesliga HD 1
-http://303tv.net:8080/barissen12/24082019adpara/649
-#EXTINF:-1 ,Sky Bundesliga HD 2
-http://303tv.net:8080/barissen12/24082019adpara/648
-#EXTINF:-1 ,Eurosport 2 Xtra
-http://303tv.net:8080/barissen12/24082019adpara/4878
-#EXTINF:-1 ,Eurosport 1 HD
-http://303tv.net:8080/barissen12/24082019adpara/236
-#EXTINF:-1 ,Eurosport 2 HD
-http://303tv.net:8080/barissen12/24082019adpara/235
-#EXTINF:-1 ,Sport1+ HD
-http://303tv.net:8080/barissen12/24082019adpara/211
-#EXTINF:-1 ,Dazn 1 HD
-http://303tv.net:8080/barissen12/24082019adpara/20017
-#EXTINF:-1 ,Dazn 2 HD
-http://303tv.net:8080/barissen12/24082019adpara/20018
 #EXTINF:-1 ,DE: Sky Cinema HD
 http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/58601.ts
 #EXTINF:-1 ,DE: National Geographic HD Germany
@@ -11573,42 +10955,6 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 group-title="USA/Canada",Z100 Radio New York
 http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
-#EXTINF:-1 ,FR | CANAL + HD
-http://303tv.net:8080/barissen12/24082019adpara/47111
-#EXTINF:-1 ,FR | BeIN SPORTS 1 FHD
-http://303tv.net:8080/barissen12/24082019adpara/47114
-#EXTINF:-1 ,FR | BEIN SPORT 3 HD
-http://303tv.net:8080/barissen12/24082019adpara/47115
-#EXTINF:-1 ,FR | BEIN SPORT 2 HD
-http://303tv.net:8080/barissen12/24082019adpara/47116
-#EXTINF:-1 ,FR | BEIN SPORT 1 HD
-http://303tv.net:8080/barissen12/24082019adpara/47117
-#EXTINF:-1 ,FR | FRANCE 24 HD
-http://303tv.net:8080/barissen12/24082019adpara/47202
-#EXTINF:-1 ,FR | EQUIDIA LIVE FHD
-http://303tv.net:8080/barissen12/24082019adpara/47203
-#EXTINF:-1 ,FR | EURO SPORT 2 HD
-http://303tv.net:8080/barissen12/24082019adpara/47204
-#EXTINF:-1 ,FR | EURO SPORT 1 HD
-http://303tv.net:8080/barissen12/24082019adpara/47205
-#EXTINF:-1 ,FR | DISNEY CINEMA HD
-http://303tv.net:8080/barissen12/24082019adpara/47207
-#EXTINF:-1 ,FR | TMC
-http://303tv.net:8080/barissen12/24082019adpara/47208
-#EXTINF:-1 ,FR | ANIMAUX
-http://303tv.net:8080/barissen12/24082019adpara/47211
-#EXTINF:-1 ,FR | AB1 HD
-http://303tv.net:8080/barissen12/24082019adpara/47212
-#EXTINF:-1 ,FR | CINE PREMIER HD
-http://303tv.net:8080/barissen12/24082019adpara/47213
-#EXTINF:-1 ,FR | W9 HD
-http://303tv.net:8080/barissen12/24082019adpara/47216
-#EXTINF:-1 ,FR | FRANCE 4 HD
-http://303tv.net:8080/barissen12/24082019adpara/47217
-#EXTINF:-1 ,FR | FRANCE 3 HD
-http://303tv.net:8080/barissen12/24082019adpara/47218
-#EXTINF:-1 ,FR | FRANCE 2 HD
-http://303tv.net:8080/barissen12/24082019adpara/47219
 #EXTINF:-1 ,BFM Business
 https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
 #EXTINF:-1 ,BFM Paris
@@ -11687,8 +11033,6 @@ http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/28413
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13789
 #EXTINF:-1 ,|FR| ANIMAUX HD
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/14044
-#EXTINF:-1 ,|FR| ACTION SD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/28334
 #EXTINF:-1 ,|FR| MTV HITS HD
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/8050
 #EXTINF:-1 ,|FR| BE CURIOUS FHD
@@ -11707,8 +11051,6 @@ http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13718
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13825
 #EXTINF:-1 ,|FR| OCS MAX HD
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13996
-#EXTINF:-1 ,|FR| OCS MAX SD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/38198
 #EXTINF:-1 ,|FR| J ONE HD
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/24938
 #EXTINF:-1 ,|FR| NICKELODEON+1 FHD
@@ -11767,14 +11109,10 @@ http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39472
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39471
 #EXTINF:-1 ,|FR| GAME ONE (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39505
-#EXTINF:-1 ,|FR| FRANCE INFO (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39457
 #EXTINF:-1 ,|FR| GRAND LILLE TV (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39453
 #EXTINF:-1 ,|FR| GULLI (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39516
-#EXTINF:-1 ,|FR| GOLF  (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39489
 #EXTINF:-1 ,|FR| INFOSPORT  (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39496
 #EXTINF:-1 ,|FR| J-ONE (SD)
@@ -11839,8 +11177,6 @@ http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39480
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39477
 #EXTINF:-1 ,|FR| PARAMOUNT CHANNEL (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39427
-#EXTINF:-1 ,|FR| PARAMOUNT DECALE (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39426
 #EXTINF:-1 ,|FR| PARIS PREMIERE (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39416
 #EXTINF:-1 ,|FR| PLANETE  (SD)
@@ -11849,14 +11185,6 @@ http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39539
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39538
 #EXTINF:-1 ,|FR| RMC DECOUVERTE (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39444
-#EXTINF:-1 ,|FR| RMC SPORT 1 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39503
-#EXTINF:-1 ,|FR| RMC SPORT 2 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39502
-#EXTINF:-1 ,|FR| RMC SPORT 3 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39501
-#EXTINF:-1 ,|FR| RMC SPORT 4 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39500
 #EXTINF:-1 ,|FR| PLANETE  CI (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39537
 #EXTINF:-1 ,|FR| POLAR  (SD)
@@ -11885,8 +11213,6 @@ http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39475
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39476
 #EXTINF:-1 ,|FR| TF1 SERIES / FILMS (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39449
-#EXTINF:-1 ,|FR| TMC  1 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39465
 #EXTINF:-1 ,|FR| TMC (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39466
 #EXTINF:-1 ,|FR| TRACE URBAN (SD)
@@ -11901,8 +11227,6 @@ http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39452
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39542
 #EXTINF:-1 ,|FR| W9 (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39467
-#EXTINF:-1 ,|FR| WARNER TV (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39429
 #EXTINF:-1 ,|FR| WEO (SD)
 http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39454
 #EXTINF:-1 ,TV5Monde Info
@@ -12059,8 +11383,6 @@ http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
 http://1.rtmp.org/tv117/yayin.stream/playlist.m3u8
 #EXTINF:-1 group-title="TURKEY",FRT TV Fethiye
 http://broadcasttr.com:1935/frttv/smil:frttv.smil/playlist.m3u8
-#EXTINF:-1 group-title="TURKEY",Guneydoğu TV
-http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
 #EXTINF:-1 group-title="TURKEY",Haber 61 Trabzon
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/.m3u8
 #EXTINF:-1 group-title="TURKEY",Istanbul Metropolitan Municipality
@@ -12321,382 +11643,6 @@ http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1 ,Tamazight
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 ,AR | Al Jazeera TV
-http://303tv.net:8080/barissen12/24082019adpara/45645
-#EXTINF:-1 ,AR | Al Jazeera  Mubasher
-http://303tv.net:8080/barissen12/24082019adpara/45646
-#EXTINF:-1 ,AR | Al Jazeera  Doc
-http://303tv.net:8080/barissen12/24082019adpara/45647
-#EXTINF:-1 ,AR | Al Arabia News
-http://303tv.net:8080/barissen12/24082019adpara/45648
-#EXTINF:-1 ,AR | Al Arabiya Al Hadath
-http://303tv.net:8080/barissen12/24082019adpara/45649
-#EXTINF:-1 ,AR | Al Aalam
-http://303tv.net:8080/barissen12/24082019adpara/45651
-#EXTINF:-1 ,AR | Euronews Arabic
-http://303tv.net:8080/barissen12/24082019adpara/45652
-#EXTINF:-1 ,AR | BBC Arabic
-http://303tv.net:8080/barissen12/24082019adpara/45653
-#EXTINF:-1 ,AR | France 24 AR
-http://303tv.net:8080/barissen12/24082019adpara/45654
-#EXTINF:-1 ,AR | Al Hurra  Iraq
-http://303tv.net:8080/barissen12/24082019adpara/45655
-#EXTINF:-1 ,AR | Al Araby TV  HD
-http://303tv.net:8080/barissen12/24082019adpara/45656
-#EXTINF:-1 ,AR | SKY News  HD
-http://303tv.net:8080/barissen12/24082019adpara/45657
-#EXTINF:-1 ,AR | Rotana Clip HD
-http://303tv.net:8080/barissen12/24082019adpara/45658
-#EXTINF:-1 ,AR | Rotana Masriya HD
-http://303tv.net:8080/barissen12/24082019adpara/45659
-#EXTINF:-1 ,AR | Rotana Khalijiah  HD
-http://303tv.net:8080/barissen12/24082019adpara/45660
-#EXTINF:-1 ,AR | Rotana Classic HD
-http://303tv.net:8080/barissen12/24082019adpara/45661
-#EXTINF:-1 ,AR | Rotana Cinema  HD
-http://303tv.net:8080/barissen12/24082019adpara/45662
-#EXTINF:-1 ,AR | Rotana Aflam  HD
-http://303tv.net:8080/barissen12/24082019adpara/45663
-#EXTINF:-1 ,AR | Rotana Drama HD
-http://303tv.net:8080/barissen12/24082019adpara/45664
-#EXTINF:-1 ,AR | MBC 1 HD
-http://303tv.net:8080/barissen12/24082019adpara/45665
-#EXTINF:-1 ,AR | MBC 2 HD
-http://303tv.net:8080/barissen12/24082019adpara/45666
-#EXTINF:-1 ,AR | MBC 3 HD
-http://303tv.net:8080/barissen12/24082019adpara/45667
-#EXTINF:-1 ,AR | MBC 4 HD
-http://303tv.net:8080/barissen12/24082019adpara/45668
-#EXTINF:-1 ,AR | MBC Action HD
-http://303tv.net:8080/barissen12/24082019adpara/45669
-#EXTINF:-1 ,AR | MBC Drama HD
-http://303tv.net:8080/barissen12/24082019adpara/45670
-#EXTINF:-1 ,AR | MBC Max HD
-http://303tv.net:8080/barissen12/24082019adpara/45671
-#EXTINF:-1 ,AR | MBC 5 HD
-http://303tv.net:8080/barissen12/24082019adpara/45672
-#EXTINF:-1 ,AR | MBC BOLLYWOOD
-http://303tv.net:8080/barissen12/24082019adpara/45673
-#EXTINF:-1 ,AR | ART HIKAYAT 1
-http://303tv.net:8080/barissen12/24082019adpara/45675
-#EXTINF:-1 ,AR | ART HEKAYAT 2
-http://303tv.net:8080/barissen12/24082019adpara/45676
-#EXTINF:-1 ,AR | ART AFLAM 1
-http://303tv.net:8080/barissen12/24082019adpara/45677
-#EXTINF:-1 ,AR | ART AFLAM 2
-http://303tv.net:8080/barissen12/24082019adpara/45678
-#EXTINF:-1 ,AR | Cima TV
-http://303tv.net:8080/barissen12/24082019adpara/45679
-#EXTINF:-1 ,AR | OSN-Animal-Planet
-http://303tv.net:8080/barissen12/24082019adpara/45681
-#EXTINF:-1 ,AR | osn-Baby_TV
-http://303tv.net:8080/barissen12/24082019adpara/45682
-#EXTINF:-1 ,AR | OSN-Cinema-1
-http://303tv.net:8080/barissen12/24082019adpara/45684
-#EXTINF:-1 ,AR | OSN-Cinema-2
-http://303tv.net:8080/barissen12/24082019adpara/45685
-#EXTINF:-1 ,AR | OSN-Discovery
-http://303tv.net:8080/barissen12/24082019adpara/45686
-#EXTINF:-1 ,AR | OSN-Discovery-Science
-http://303tv.net:8080/barissen12/24082019adpara/45687
-#EXTINF:-1 ,AR | OSN-Disney-Junior
-http://303tv.net:8080/barissen12/24082019adpara/45688
-#EXTINF:-1 ,AR | OSN-Kids-Zone-TV
-http://303tv.net:8080/barissen12/24082019adpara/45692
-#EXTINF:-1 ,AR | OSN-Living
-http://303tv.net:8080/barissen12/24082019adpara/45693
-#EXTINF:-1 ,AR | OSN Mov Action
-http://303tv.net:8080/barissen12/24082019adpara/45694
-#EXTINF:-1 ,AR | OSN-Movies
-http://303tv.net:8080/barissen12/24082019adpara/45695
-#EXTINF:-1 ,AR | OSN-Movies-Comedy
-http://303tv.net:8080/barissen12/24082019adpara/45696
-#EXTINF:-1 ,AR | OSN-Movies-First
-http://303tv.net:8080/barissen12/24082019adpara/45697
-#EXTINF:-1 ,AR | OSN-MTV-Live
-http://303tv.net:8080/barissen12/24082019adpara/45698
-#EXTINF:-1 ,AR | OSN-Musalslat-Channel
-http://303tv.net:8080/barissen12/24082019adpara/45699
-#EXTINF:-1 ,AR | OSN-NAT-GEO-People
-http://303tv.net:8080/barissen12/24082019adpara/45700
-#EXTINF:-1 ,AR | OSN-Nat-Geo-Wild
-http://303tv.net:8080/barissen12/24082019adpara/45701
-#EXTINF:-1 ,AR | OSN-National-Geographic
-http://303tv.net:8080/barissen12/24082019adpara/45702
-#EXTINF:-1 ,AR | OSN-Series-Comedy
-http://303tv.net:8080/barissen12/24082019adpara/45703
-#EXTINF:-1 ,AR | OSN-SYFY
-http://303tv.net:8080/barissen12/24082019adpara/45704
-#EXTINF:-1 ,AR | OSN-Ya-Hala
-http://303tv.net:8080/barissen12/24082019adpara/45705
-#EXTINF:-1 ,AR | OSN-Ya-Hala-Aloula
-http://303tv.net:8080/barissen12/24082019adpara/45706
-#EXTINF:-1 ,AR | Al Aoula HD
-http://303tv.net:8080/barissen12/24082019adpara/45708
-#EXTINF:-1 ,AR | 2M Maroc
-http://303tv.net:8080/barissen12/24082019adpara/45710
-#EXTINF:-1 ,AR | Téle  Maroc
-http://303tv.net:8080/barissen12/24082019adpara/45711
-#EXTINF:-1 ,AR | Medi1 TV HD
-http://303tv.net:8080/barissen12/24082019adpara/45712
-#EXTINF:-1 ,AR | Chada  TV
-http://303tv.net:8080/barissen12/24082019adpara/45713
-#EXTINF:-1 ,AR | Canal  Atlas
-http://303tv.net:8080/barissen12/24082019adpara/45714
-#EXTINF:-1 ,AR | AlMaghribia HD
-http://303tv.net:8080/barissen12/24082019adpara/45715
-#EXTINF:-1 ,AR | Arrabia HD
-http://303tv.net:8080/barissen12/24082019adpara/45717
-#EXTINF:-1 ,AR | Assadissa HD
-http://303tv.net:8080/barissen12/24082019adpara/45718
-#EXTINF:-1 ,AR | Tamazight
-http://303tv.net:8080/barissen12/24082019adpara/45719
-#EXTINF:-1 ,AR | Samira  TV
-http://303tv.net:8080/barissen12/24082019adpara/45720
-#EXTINF:-1 ,AR | Al nahar TV
-http://303tv.net:8080/barissen12/24082019adpara/45721
-#EXTINF:-1 ,AR | Canal  Algerie
-http://303tv.net:8080/barissen12/24082019adpara/45722
-#EXTINF:-1 ,AR | Algeria  3
-http://303tv.net:8080/barissen12/24082019adpara/45723
-#EXTINF:-1 ,AR | ENTV Algerie
-http://303tv.net:8080/barissen12/24082019adpara/45724
-#EXTINF:-1 ,AR | Dzaier TV
-http://303tv.net:8080/barissen12/24082019adpara/45725
-#EXTINF:-1 ,AR | El  Heddaf
-http://303tv.net:8080/barissen12/24082019adpara/45726
-#EXTINF:-1 ,AR | El Bilad TV
-http://303tv.net:8080/barissen12/24082019adpara/45727
-#EXTINF:-1 ,AR | Echourouk TV
-http://303tv.net:8080/barissen12/24082019adpara/45728
-#EXTINF:-1 ,AR | EL Djazairia
-http://303tv.net:8080/barissen12/24082019adpara/45729
-#EXTINF:-1 ,AR | Berbere TV
-http://303tv.net:8080/barissen12/24082019adpara/45730
-#EXTINF:-1 ,AR | Beur TV
-http://303tv.net:8080/barissen12/24082019adpara/45731
-#EXTINF:-1 ,AR | Numedia  TV
-http://303tv.net:8080/barissen12/24082019adpara/45732
-#EXTINF:-1 ,AR | Tunisia Nat 1
-http://303tv.net:8080/barissen12/24082019adpara/45733
-#EXTINF:-1 ,AR | Tunisia Nat 2
-http://303tv.net:8080/barissen12/24082019adpara/45734
-#EXTINF:-1 ,AR | Hannibal
-http://303tv.net:8080/barissen12/24082019adpara/45735
-#EXTINF:-1 ,AR | Attessia  TV
-http://303tv.net:8080/barissen12/24082019adpara/45736
-#EXTINF:-1 ,AR | AL JANOUBIA
-http://303tv.net:8080/barissen12/24082019adpara/45737
-#EXTINF:-1 ,AR | Nessma TV
-http://303tv.net:8080/barissen12/24082019adpara/45738
-#EXTINF:-1 ,AR | Zaytouna TV
-http://303tv.net:8080/barissen12/24082019adpara/45739
-#EXTINF:-1 ,AR | Al Hiwar Ettounsi
-http://303tv.net:8080/barissen12/24082019adpara/45740
-#EXTINF:-1 ,AR | Tunisna TV
-http://303tv.net:8080/barissen12/24082019adpara/45741
-#EXTINF:-1 ,AR | M-Tunisia
-http://303tv.net:8080/barissen12/24082019adpara/45742
-#EXTINF:-1 ,AR | LBC HD
-http://303tv.net:8080/barissen12/24082019adpara/45743
-#EXTINF:-1 ,AR | NBN TV HD
-http://303tv.net:8080/barissen12/24082019adpara/45744
-#EXTINF:-1 ,AR | MTV Libanon
-http://303tv.net:8080/barissen12/24082019adpara/45745
-#EXTINF:-1 ,AR | Future TV
-http://303tv.net:8080/barissen12/24082019adpara/45746
-#EXTINF:-1 ,AR | OTV Libanon
-http://303tv.net:8080/barissen12/24082019adpara/45747
-#EXTINF:-1 ,AR | CNBC  Arabia
-http://303tv.net:8080/barissen12/24082019adpara/45748
-#EXTINF:-1 ,AR | Al Jadeed
-http://303tv.net:8080/barissen12/24082019adpara/45749
-#EXTINF:-1 ,AR | Al Manar TV
-http://303tv.net:8080/barissen12/24082019adpara/45750
-#EXTINF:-1 ,AR | Al Mayadeen
-http://303tv.net:8080/barissen12/24082019adpara/45751
-#EXTINF:-1 ,AR | Arabica TV
-http://303tv.net:8080/barissen12/24082019adpara/45752
-#EXTINF:-1 ,AR | Sama  Sham
-http://303tv.net:8080/barissen12/24082019adpara/45754
-#EXTINF:-1 ,AR | Syria  Drama
-http://303tv.net:8080/barissen12/24082019adpara/45755
-#EXTINF:-1 ,AR | Halab Today TV
-http://303tv.net:8080/barissen12/24082019adpara/45756
-#EXTINF:-1 ,AR | Al Ikhbaria syria
-http://303tv.net:8080/barissen12/24082019adpara/45757
-#EXTINF:-1 ,AR | Orient News
-http://303tv.net:8080/barissen12/24082019adpara/45758
-#EXTINF:-1 ,AR | Syria TV
-http://303tv.net:8080/barissen12/24082019adpara/45759
-#EXTINF:-1 ,AR | Zweina  Baladna
-http://303tv.net:8080/barissen12/24082019adpara/45760
-#EXTINF:-1 ,AR | Koky Kids  TV
-http://303tv.net:8080/barissen12/24082019adpara/45763
-#EXTINF:-1 ,AR | Atfal Mawaheb
-http://303tv.net:8080/barissen12/24082019adpara/45765
-#EXTINF:-1 ,AR | Hodhood
-http://303tv.net:8080/barissen12/24082019adpara/45766
-#EXTINF:-1 ,AR | Spacetooon
-http://303tv.net:8080/barissen12/24082019adpara/45767
-#EXTINF:-1 ,AR | JEEM
-http://303tv.net:8080/barissen12/24082019adpara/45768
-#EXTINF:-1 ,AR | BARAEM
-http://303tv.net:8080/barissen12/24082019adpara/45769
-#EXTINF:-1 ,AR | Karameesh Kids
-http://303tv.net:8080/barissen12/24082019adpara/45770
-#EXTINF:-1 ,AR | Mickey  Channel
-http://303tv.net:8080/barissen12/24082019adpara/45771
-#EXTINF:-1 ,AR | Mody Kids
-http://303tv.net:8080/barissen12/24082019adpara/45772
-#EXTINF:-1 ,AR | Taha
-http://303tv.net:8080/barissen12/24082019adpara/45773
-#EXTINF:-1 ,AR | Libya 1
-http://303tv.net:8080/barissen12/24082019adpara/45774
-#EXTINF:-1 ,AR | Libya 218
-http://303tv.net:8080/barissen12/24082019adpara/45775
-#EXTINF:-1 ,AR | Libya Alahrar
-http://303tv.net:8080/barissen12/24082019adpara/45776
-#EXTINF:-1 ,AR | Libya Alwatan
-http://303tv.net:8080/barissen12/24082019adpara/45777
-#EXTINF:-1 ,AR | Libya News
-http://303tv.net:8080/barissen12/24082019adpara/45778
-#EXTINF:-1 ,AR | Libya Rasmia
-http://303tv.net:8080/barissen12/24082019adpara/45779
-#EXTINF:-1 ,AR | Libya   TV
-http://303tv.net:8080/barissen12/24082019adpara/45780
-#EXTINF:-1 ,AR | Alsharqia HD
-http://303tv.net:8080/barissen12/24082019adpara/45782
-#EXTINF:-1 ,AR | ANB iraq
-http://303tv.net:8080/barissen12/24082019adpara/45783
-#EXTINF:-1 ,AR | Afaq TV
-http://303tv.net:8080/barissen12/24082019adpara/45784
-#EXTINF:-1 ,AR | Al Nabaa
-http://303tv.net:8080/barissen12/24082019adpara/45788
-#EXTINF:-1 ,AR | Al Maaref  TV
-http://303tv.net:8080/barissen12/24082019adpara/45789
-#EXTINF:-1 ,AR | Al Rasheed
-http://303tv.net:8080/barissen12/24082019adpara/45790
-#EXTINF:-1 ,AR | Dejlah
-http://303tv.net:8080/barissen12/24082019adpara/45791
-#EXTINF:-1 ,AR | Samarra  TV
-http://303tv.net:8080/barissen12/24082019adpara/45792
-#EXTINF:-1 ,AR | Echorouq  News
-http://303tv.net:8080/barissen12/24082019adpara/45793
-#EXTINF:-1 ,AR | Iraqiya TV
-http://303tv.net:8080/barissen12/24082019adpara/45794
-#EXTINF:-1 ,AR | Alhayah Alaan
-http://303tv.net:8080/barissen12/24082019adpara/45795
-#EXTINF:-1 ,AR | Al Nada  TV
-http://303tv.net:8080/barissen12/24082019adpara/45797
-#EXTINF:-1 ,AR | Al Ghadeer
-http://303tv.net:8080/barissen12/24082019adpara/45798
-#EXTINF:-1 ,AR | Ahel Al Quran
-http://303tv.net:8080/barissen12/24082019adpara/45799
-#EXTINF:-1 ,AR | Alquran Mekka
-http://303tv.net:8080/barissen12/24082019adpara/45802
-#EXTINF:-1 ,AR | AL Resala
-http://303tv.net:8080/barissen12/24082019adpara/45804
-#EXTINF:-1 ,AR | Iqraa Arabic
-http://303tv.net:8080/barissen12/24082019adpara/45806
-#EXTINF:-1 ,AR | Mecce TV
-http://303tv.net:8080/barissen12/24082019adpara/45807
-#EXTINF:-1 ,AR | Saudi 1
-http://303tv.net:8080/barissen12/24082019adpara/45812
-#EXTINF:-1 ,AR | Saudi Quraan HD
-http://303tv.net:8080/barissen12/24082019adpara/45814
-#EXTINF:-1 ,AR | Noor Dubai
-http://303tv.net:8080/barissen12/24082019adpara/45819
-#EXTINF:-1 ,AR | Sama  Dubai
-http://303tv.net:8080/barissen12/24082019adpara/45820
-#EXTINF:-1 ,AR | Dubai TV
-http://303tv.net:8080/barissen12/24082019adpara/45821
-#EXTINF:-1 ,AR | Dubai Zaman
-http://303tv.net:8080/barissen12/24082019adpara/45822
-#EXTINF:-1 ,AR | Dubai One
-http://303tv.net:8080/barissen12/24082019adpara/45823
-#EXTINF:-1 ,AR | Abu Dhabi TV
-http://303tv.net:8080/barissen12/24082019adpara/45824
-#EXTINF:-1 ,AR | AD Drama
-http://303tv.net:8080/barissen12/24082019adpara/45825
-#EXTINF:-1 ,AR | Nile Life
-http://303tv.net:8080/barissen12/24082019adpara/45830
-#EXTINF:-1 ,AR | Nile Drama
-http://303tv.net:8080/barissen12/24082019adpara/45831
-#EXTINF:-1 ,AR | Nile  Comedy
-http://303tv.net:8080/barissen12/24082019adpara/45832
-#EXTINF:-1 ,AR | Nile Family
-http://303tv.net:8080/barissen12/24082019adpara/45834
-#EXTINF:-1 ,AR | Al Hayat  1
-http://303tv.net:8080/barissen12/24082019adpara/45835
-#EXTINF:-1 ,AR | CBC 2
-http://303tv.net:8080/barissen12/24082019adpara/45841
-#EXTINF:-1 ,AR | CBC Extra
-http://303tv.net:8080/barissen12/24082019adpara/45843
-#EXTINF:-1 ,AR | CBC Drama
-http://303tv.net:8080/barissen12/24082019adpara/45844
-#EXTINF:-1 ,AR | Panorama Drama
-http://303tv.net:8080/barissen12/24082019adpara/45849
-#EXTINF:-1 ,AR | Panorama Drama 2
-http://303tv.net:8080/barissen12/24082019adpara/45850
-#EXTINF:-1 ,AR | Dmc drama
-http://303tv.net:8080/barissen12/24082019adpara/45854
-#EXTINF:-1 ,AR | Jordan TV
-http://303tv.net:8080/barissen12/24082019adpara/45862
-#EXTINF:-1 ,AR | Palestine TV
-http://303tv.net:8080/barissen12/24082019adpara/45866
-#EXTINF:-1 ,AR | Palestine Today
-http://303tv.net:8080/barissen12/24082019adpara/45869
-#EXTINF:-1 ,AR | Al falastenia
-http://303tv.net:8080/barissen12/24082019adpara/45870
-#EXTINF:-1 ,AR | Musawa tv
-http://303tv.net:8080/barissen12/24082019adpara/45871
-#EXTINF:-1 ,AR | Kuwait 1 HD
-http://303tv.net:8080/barissen12/24082019adpara/45876
-#EXTINF:-1 ,AR | B4U Aflam
-http://303tv.net:8080/barissen12/24082019adpara/45877
-#EXTINF:-1 ,AR | Ajyal
-http://303tv.net:8080/barissen12/24082019adpara/45878
-#EXTINF:-1 ,AR | DW Arabia
-http://303tv.net:8080/barissen12/24082019adpara/45879
-#EXTINF:-1 ,AR | Qatar TV
-http://303tv.net:8080/barissen12/24082019adpara/45880
-#EXTINF:-1 ,AR | Al rai TV
-http://303tv.net:8080/barissen12/24082019adpara/45881
-#EXTINF:-1 ,AR | AL AAN
-http://303tv.net:8080/barissen12/24082019adpara/45882
-#EXTINF:-1 ,AR | Sudan   TV
-http://303tv.net:8080/barissen12/24082019adpara/45884
-#EXTINF:-1 ,AR | Zee Aflam
-http://303tv.net:8080/barissen12/24082019adpara/45885
-#EXTINF:-1 ,AR | LANA TV
-http://303tv.net:8080/barissen12/24082019adpara/45900
-#EXTINF:-1 ,AR:BEIN_SPORTSHD13
-http://303tv.net:8080/barissen12/24082019adpara/45914
-#EXTINF:-1 ,AR:DUBAI_SPORT3
-http://303tv.net:8080/barissen12/24082019adpara/45915
-#EXTINF:-1 ,AR:DUBAI_SPORT
-http://303tv.net:8080/barissen12/24082019adpara/45916
-#EXTINF:-1 ,AR | AD SPORT 4
-http://303tv.net:8080/barissen12/24082019adpara/45917
-#EXTINF:-1 ,AR | AD SPORT 3
-http://303tv.net:8080/barissen12/24082019adpara/45918
-#EXTINF:-1 ,AR | AD SPORT 2
-http://303tv.net:8080/barissen12/24082019adpara/45919
-#EXTINF:-1 ,AR | AD SPORT 1
-http://303tv.net:8080/barissen12/24082019adpara/45920
-#EXTINF:-1 ,AR | abu_dhabi_sport
-http://303tv.net:8080/barissen12/24082019adpara/45921
-#EXTINF:-1 ,AR | Abu Dhabi Sport 2
-http://303tv.net:8080/barissen12/24082019adpara/45922
-#EXTINF:-1 ,AR | Dubai Sport 4
-http://303tv.net:8080/barissen12/24082019adpara/45925
-#EXTINF:-1 ,AR | Dubai Sport 2
-http://303tv.net:8080/barissen12/24082019adpara/45926
-#EXTINF:-1 ,AR | Abu Dhabi Sports 4
-http://303tv.net:8080/barissen12/24082019adpara/45927
-#EXTINF:-1 ,AR | Abu Dhabi Sports 3
-http://303tv.net:8080/barissen12/24082019adpara/45928
 #EXTINF:-1 ,Abu Dhabi Sports
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1 ,Abu Dhabi Sports SD
@@ -12859,40 +11805,14 @@ http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/26231
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/9049
 #EXTINF:-1 ,SPORTSMAN NETWORK
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/9050
-#EXTINF:-1 ,BEIN SPORTS 1 (AU)
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/80782
-#EXTINF:-1 ,BEIN SPORTS 2 (AU)
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/80781
-#EXTINF:-1 ,BEIN SPORTS 3 (AU)
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/80780
 #EXTINF:-1 ,*BEIN SPORTS HD
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/171
 #EXTINF:-1 ,BEIN DEPORTES HD (ES)
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/236
-#EXTINF:-1 ,BEIN SPORTS 1 HD
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4814
-#EXTINF:-1 ,BEIN SPORTS 2 HD
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4813
-#EXTINF:-1 ,BEIN SPORTS 3 HD
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4812
 #EXTINF:-1 ,BEIN SPORTS 4 HD
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4811
-#EXTINF:-1 ,BEIN SPORTS 5 HD
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4810
 #EXTINF:-1 ,BEIN SPORTS 6 HD
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4809
-#EXTINF:-1 ,BEIN SPORTS 7 HD
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4808
-#EXTINF:-1 ,BEIN SPORTS 8 HD
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4807
-#EXTINF:-1 ,BEIN SPORTS 9 HD
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4806
-#EXTINF:-1 ,BEIN SPORTS 10 HD
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4805
-#EXTINF:-1 ,BEIN SPORTS 11 HD
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/74480
-#EXTINF:-1 ,BEIN SPORTS 13 HD
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/74478
 #EXTINF:-1 ,NBC SPORTS HD
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/81965
 #EXTINF:-1 ,FLOW 1 HD
@@ -13055,8 +11975,6 @@ http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/314
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/315
 #EXTINF:-1 ,COMEDY NETWORK HD
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/316
-#EXTINF:-1 ,247-THE SIX MILLION DOLLAR MAN
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/72961
 #EXTINF:-1 ,247-WKRP
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/72962
 #EXTINF:-1 ,247-WONDER WOMAN
@@ -13399,8 +12317,6 @@ http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4796
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/3965
 #EXTINF:-1 ,BBC WORLD NEWS
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/9546
-#EXTINF:-1 ,RTE NEWS NOW
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/7191
 #EXTINF:-1 ,RT NEWS ENGLISH
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/512
 #EXTINF:-1 ,RT DOCUMENTARY
@@ -13587,10 +12503,6 @@ http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/1741
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/1789
 #EXTINF:-1 ,SKY DISCOVERY TURBO
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/1767
-#EXTINF:-1 ,SKY DISCOVERY SHED
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/1761
-#EXTINF:-1 ,SKY DISCOVERY SCIENCE
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/1766
 #EXTINF:-1 ,SKY DISCOVERY HISTORY
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/1765
 #EXTINF:-1 ,SKY DISCOVERY
@@ -13617,12 +12529,8 @@ http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4862
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4860
 #EXTINF:-1 ,SKY RTE 1
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/4859
-#EXTINF:-1 ,SKY ANIMAL PLANET
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/1760
 #EXTINF:-1 ,SKY ALIBI
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/1774
-#EXTINF:-1 ,SKY 2
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/1749
 #EXTINF:-1 ,CBS ACTION
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/7184
 #EXTINF:-1 ,CBS DRAMA
@@ -13833,18 +12741,12 @@ http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/71118
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/2433
 #EXTINF:-1 ,VTV-4 (VN)
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/2424
-#EXTINF:-1 ,SAIGON (VN)
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/2566
-#EXTINF:-1 ,VIET SKY (VN)
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/59209
 #EXTINF:-1 ,VIET FACE (VN)
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/2427
 #EXTINF:-1 ,VBS (VN)
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/2429
 #EXTINF:-1 ,DONG NAI TV (VN)
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/55399
-#EXTINF:-1 ,VTV-6 (VN)
-http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/55398
 #EXTINF:-1 ,*UNIVISION EAST HD
 http://ok2.se:8000/0266F7Up6JGuQbYqn/2054F9UxppKyJj24c/8253
 #EXTINF:-1 ,*UNIVISION WEST (LA)
