@@ -47,12 +47,8 @@ http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19470.m3u8
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19469.m3u8
 #EXTINF:-1 ,BBC One HD UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19468.m3u8
-#EXTINF:-1 ,BBC One Northern Ireland UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19467.m3u8
 #EXTINF:-1 ,BBC One Oxford UK***
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19466.m3u8
-#EXTINF:-1 ,BBC One Scotland UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19465.m3u8
 #EXTINF:-1 ,BBC One UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19464.m3u8
 #EXTINF:-1 ,BBC Two Scotland UK**
@@ -111,8 +107,6 @@ http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19456.m3u8
 https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/playlist.m3u8
 #EXTINF:-1 group-title="News",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1 ,Bloomberg TV UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19438.m3u8
 #EXTINF:-1 group-title="NINMEDIA",BMW TV
 http://stream1.ninmedia.tv/bmwtv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 ,Boomerang  1 UK**
@@ -161,10 +155,6 @@ http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19418.m3u8
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19416.m3u8
 #EXTINF:-1 group-title="Entertainment",Channel 7
 http://radio.7chan.org:8000/CH7
-#EXTINF:-1 ,Channel Total Country UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19414.m3u8
-#EXTINF:-1 ,Chart Show Hits UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19413.m3u8
 #EXTINF:-1 group-title="News",Cheddar
 https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
 #EXTINF:-1 group-title="News",Cheddar
@@ -181,8 +171,6 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b38
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 ,CNN UK
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19423.m3u8
-#EXTINF:-1 ,Comedy Central Extra  1 UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19410.m3u8
 #EXTINF:-1 ,Comedy Central Extra UK*
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19409.m3u8
 #EXTINF:-1 ,ComedyCentralUK
@@ -203,26 +191,18 @@ https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_21.m3u8
 #EXTINF:-1 group-title="KLIP MUSIC",DANGDUT
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-#EXTINF:-1 ,Dave ja vu UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19403.m3u8
-#EXTINF:-1 ,Dave UK***
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19404.m3u8
 #EXTINF:-1 group-title="Legislative",DC Council Channel
 http://video.oct.dc.gov/out/u/15_12.m3u8
 #EXTINF:-1 ,Discovery Channel UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19401.m3u8
 #EXTINF:-1 ,Discovery History  1 UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19400.m3u8
-#EXTINF:-1 ,Discovery Science UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19395.m3u8
 #EXTINF:-1 ,Discovery Shed UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19394.m3u8
 #EXTINF:-1 ,Discovery Turbo UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19393.m3u8
 #EXTINF:-1 ,DiscoveryHomeHealthUK
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19397.m3u8
-#EXTINF:-1 ,Disney Channel  1 UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19392.m3u8
 #EXTINF:-1 ,Disney Channel UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19391.m3u8
 #EXTINF:-1 ,Disney Junior UK**
@@ -231,14 +211,10 @@ http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19389.m3u8
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19388.m3u8
 #EXTINF:-1 group-title="KLIP MUSIC",D'MASIV
 https://raw.githubusercontent.com/sukard2512/iptv/master/D'MASIV%20-%20Jangan%20Menyerah%20(Official%20Music%20Video).mp4
-#EXTINF:-1 ,DMAX  1 UK***
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19406.m3u8
 #EXTINF:-1 ,DMAX UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19405.m3u8
 #EXTINF:-1 ,E! UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19384.m3u8
-#EXTINF:-1 ,E4  1 UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19383.m3u8
 #EXTINF:-1 ,E4 UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19382.m3u8
 #EXTINF:-1 ,Eden UK**
@@ -265,8 +241,6 @@ https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
 #EXTINF:-1 group-title="News",Euronews ewns (es)
 https://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
-#EXTINF:-1 ,FoodNetwork1UK
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19372.m3u8
 #EXTINF:-1 ,FoodNetworkUK
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19371.m3u8
 #EXTINF:-1 group-title="BeIN SPORTS",FOX SPORTS 1 FULL HD
@@ -297,12 +271,8 @@ http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 https://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
 #EXTINF:-1 ,GOLD  1 UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19369.m3u8
-#EXTINF:-1 ,H2 UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19365.m3u8
 #EXTINF:-1 ,HistoryUK
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19362.m3u8
-#EXTINF:-1 ,Home  UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19361.m3u8
 #EXTINF:-1 ,Horror Channel UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19358.m3u8
 #EXTINF:-1 group-title="KLIP MUSIC",I AM CHANNEL
@@ -339,8 +309,6 @@ http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19346.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 #EXTINF:-1 ,Kerrang! TV UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19340.m3u8
-#EXTINF:-1 ,KISSUK
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19343.m3u8
 #EXTINF:-1 group-title="Entertainment",La Chaine Normande
 https://lcn.hdr-tv.com/live/lcn/ngrp:lcn_Wifi/manifest.mpd
 #EXTINF:-1 group-title="News",Le Journal (News) (FR) (French)
@@ -361,16 +329,12 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/chunklist_b235200
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19324.m3u8
 #EXTINF:-1 ,Movies4Men1UK
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19323.m3u8
-#EXTINF:-1 ,MTV  1 UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19338.m3u8
 #EXTINF:-1 ,MTV Base UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19336.m3u8
 #EXTINF:-1 ,MTV Music UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19332.m3u8
 #EXTINF:-1 ,MTVClassicUK
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19335.m3u8
-#EXTINF:-1 ,MTVHitsUK
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19333.m3u8
 #EXTINF:-1 group-title="Entertainment",My Comedy (fr)
 https://live.creacast.com/mycomedy/smil:mycomedy.smil/master.m3u8
 #EXTINF:-1 ,Nat Geo Wild UK*
@@ -399,8 +363,6 @@ https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19310.m3u8
 #EXTINF:-1 group-title="News",Presstv live
 https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:-1 ,QUEST UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19302.m3u8
 #EXTINF:-1 ,Racing UK*
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19295.m3u8
 #EXTINF:-1 ,Racing UK*
@@ -433,18 +395,10 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/master.m3u8
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTINF:-1 ,RTï¿½ Jr UK*
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19301.m3u8
-#EXTINF:-1 ,RTï¿½ News Now UK*
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19300.m3u8
-#EXTINF:-1 ,RTï¿½ News Now UK*
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19300.m3u8
 #EXTINF:-1 ,RTï¿½ One HD UK*
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19299.m3u8
 #EXTINF:-1 ,RTï¿½ One UK*
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19298.m3u8
-#EXTINF:-1 ,RTï¿½ One UK*
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19298.m3u8
-#EXTINF:-1 ,RTï¿½ Two HD UK*
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19297.m3u8
 #EXTINF:-1 ,RTï¿½ Two UK*
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19296.m3u8
 #EXTINF:-1 ,RTï¿½ Two UK*
@@ -473,8 +427,6 @@ http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19286.m3u8
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19285.m3u8
 #EXTINF:-1 ,Sky Arts UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19285.m3u8
-#EXTINF:-1 ,Sky Atlantic  1 UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19284.m3u8
 #EXTINF:-1 ,Sky Atlantic UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19283.m3u8
 #EXTINF:-1 ,Sky Atlantic UK**
@@ -483,20 +435,12 @@ http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19283.m3u8
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19265.m3u8
 #EXTINF:-1 ,Sky Living  1 UK***
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19265.m3u8
-#EXTINF:-1 ,Sky Living UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19264.m3u8
 #EXTINF:-1 ,Sky News UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19263.m3u8
 #EXTINF:-1 ,Sky News UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19263.m3u8
-#EXTINF:-1 ,Sony Channel  1 UK*
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19244.m3u8
-#EXTINF:-1 ,Starz TV UK*
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19243.m3u8
 #EXTINF:-1 ,Syfy  1 UK*
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19242.m3u8
-#EXTINF:-1 ,Syfy UK***
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19241.m3u8
 #EXTINF:-1 group-title="ISLAMTV",TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",TAWAFTV
@@ -521,8 +465,6 @@ https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19238.m3u8
 #EXTINF:-1 ,TG4 UK***
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19238.m3u8
-#EXTINF:-1 ,The Box UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19231.m3u8
 #EXTINF:-1 group-title="KLIP MUSIC",THE INDONESIA CHANNEL
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 #EXTINF:-1 ,The Shopping Channel HD
@@ -532,8 +474,6 @@ http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19230.m3u8
 #EXTINF:-1 group-title="Entertainment",TheBlaze TV
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
 #EXTINF:-1 ,Tiny Pop  1 UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19229.m3u8
-#EXTINF:-1 ,Tiny Pop  1 UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19229.m3u8
 #EXTINF:-1 ,TinyPopUK
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19228.m3u8
@@ -541,12 +481,6 @@ http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19228.m3u8
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19228.m3u8
 #EXTINF:-1 ,TLC  1 UK***
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19237.m3u8
-#EXTINF:-1 ,TLC  1 UK***
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19237.m3u8
-#EXTINF:-1 ,TLC  2 UK***
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19236.m3u8
-#EXTINF:-1 ,TLC UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19235.m3u8
 #EXTINF:-1 ,TLC UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19235.m3u8
 #EXTINF:-1 group-title="Music",Trace Mziki
@@ -573,10 +507,6 @@ http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19207.m3u8
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19207.m3u8
 #EXTINF:-1 ,True Entertainment UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19224.m3u8
-#EXTINF:-1 ,True Entertainment UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19224.m3u8
-#EXTINF:-1 ,True Movies  1 UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19223.m3u8
 #EXTINF:-1 ,True Movies  1 UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19223.m3u8
 #EXTINF:-1 group-title="Entertainment",TSC The Shopping Channel
@@ -749,8 +679,6 @@ http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37141.m3u8
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37072.m3u8
 #EXTINF:-1 ,UK MTV Classic
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37071.m3u8
-#EXTINF:-1 ,UK MTV Hits
-http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37070.m3u8
 #EXTINF:-1 ,UK MUTV
 http://89.187.181.171:826/live/armelb/zQxn5lB3zK/37191.m3u8
 #EXTINF:-1 ,UK Nat Geo Wild
@@ -885,8 +813,6 @@ http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6947.m3u8
 http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6959.m3u8
 #EXTINF:-1 ,UK:BLOOMBERG
 http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6939.m3u8
-#EXTINF:-1 ,UK:BT SPORT 1
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4758.m3u8
 #EXTINF:-1 ,UK:BT SPORT 2
 http://iptv.iptivihd.com:8000/live/cemal/sakarya54/4759.m3u8
 #EXTINF:-1 ,UK:BT SPORT 3
@@ -905,14 +831,10 @@ http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1510.m3u8
 http://iptv.iptivihd.com:8000/live/cemal/sakarya54/1509.m3u8
 #EXTINF:-1 ,UK:CHANNEL 4
 http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6924.m3u8
-#EXTINF:-1 ,UK:CHANNEL 5
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6925.m3u8
 #EXTINF:-1 ,UK:COMEDY CENTRAL
 http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6950.m3u8
 #EXTINF:-1 ,UK:CRIME & INVERSTIGATION
 http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6949.m3u8
-#EXTINF:-1 ,UK:DISCOVERY
-http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6954.m3u8
 #EXTINF:-1 ,UK:DISCOVERY SCIENCE
 http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6952.m3u8
 #EXTINF:-1 ,UK:E!
@@ -973,20 +895,12 @@ http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6958.m3u8
 http://iptv.iptivihd.com:8000/live/cemal/sakarya54/6930.m3u8
 #EXTINF:-1 ,Universal Channel UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19220.m3u8
-#EXTINF:-1 ,UTV HD UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19222.m3u8
-#EXTINF:-1 ,UTV HD UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19222.m3u8
 #EXTINF:-1 ,VH1 UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19219.m3u8
 #EXTINF:-1 ,VH1 UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19219.m3u8
 #EXTINF:-1 ,Viceland UK**
 http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19217.m3u8
-#EXTINF:-1 ,Vintage TV UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19216.m3u8
-#EXTINF:-1 ,W  1 UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19215.m3u8
 #EXTINF:-1 ,W UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19214.m3u8
 #EXTINF:-1 ,W UK**
@@ -995,10 +909,6 @@ http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19214.m3u8
 https://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 group-title="KLIP MUSIC",WHITE LION
 https://ia801606.us.archive.org/14/items/White_Lion_When_The_Children_Cry/White_Lion_When_The_Children_Cry.mp4?cnt=0
-#EXTINF:-1 ,YESTERDAY UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19212.m3u8
-#EXTINF:-1 ,YESTERDAY UK**
-http://iptv9211.hopto.me:8000/live/nfzNlANvf2/HHfWU3dzWt/19212.m3u8
 #EXTINF:-1 ,UK:VIP Cartoon network HD
 http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/56431.ts
 #EXTINF:-1 ,UK:True Movies 1
@@ -1593,8 +1503,6 @@ http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19480.m3u8
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19479.m3u8
 #EXTINF:-1 ,Alibi UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19475.m3u8
-#EXTINF:-1 ,AMC From BT UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19477.m3u8
 #EXTINF:-1 ,BBC Four HD UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19472.m3u8
 #EXTINF:-1 ,BBC News HD UK**
@@ -1615,10 +1523,6 @@ http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19458.m3u8
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19457.m3u8
 #EXTINF:-1 ,BET UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19456.m3u8
-#EXTINF:-1 ,Blaze UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19439.m3u8
-#EXTINF:-1 ,Boomerang  1 UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19437.m3u8
 #EXTINF:-1 ,Boomerang UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19436.m3u8
 #EXTINF:-1 ,Cartoon Network UK**
@@ -1635,32 +1539,20 @@ http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19428.m3u8
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19426.m3u8
 #EXTINF:-1 ,Channel 5 HD UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19416.m3u8
-#EXTINF:-1 ,Channel Total Country UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19414.m3u8
 #EXTINF:-1 ,Chart Show TV UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19412.m3u8
 #EXTINF:-1 ,Chelsea TV UK*
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19411.m3u8
-#EXTINF:-1 ,Comedy Central Extra UK*
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19409.m3u8
 #EXTINF:-1 ,ComedyCentralUK
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19408.m3u8
 #EXTINF:-1 ,CITVUK
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19424.m3u8
 #EXTINF:-1 ,CNN UK
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19423.m3u8
-#EXTINF:-1 ,Dave UK***
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19404.m3u8
 #EXTINF:-1 ,Discovery Channel UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19401.m3u8
-#EXTINF:-1 ,DiscoveryHomeHealthUK
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19397.m3u8
 #EXTINF:-1 ,Discovery Shed UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19394.m3u8
-#EXTINF:-1 ,Discovery Turbo UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19393.m3u8
-#EXTINF:-1 ,Disney Channel UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19391.m3u8
 #EXTINF:-1 ,Disney Junior UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19389.m3u8
 #EXTINF:-1 ,Disney XD  1 UK***
@@ -1669,8 +1561,6 @@ http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19388.m3u8
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19405.m3u8
 #EXTINF:-1 ,Drama UK***
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19386.m3u8
-#EXTINF:-1 ,E! UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19384.m3u8
 #EXTINF:-1 ,Eden UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19380.m3u8
 #EXTINF:-1 ,Film4UK
@@ -1687,26 +1577,18 @@ http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19376.m3u8
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19369.m3u8
 #EXTINF:-1 ,HistoryUK
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19362.m3u8
-#EXTINF:-1 ,Home  UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19361.m3u8
 #EXTINF:-1 ,Horror Channel UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19358.m3u8
 #EXTINF:-1 ,InvestigationDiscoveryUK
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19344.m3u8
-#EXTINF:-1 ,ITV 1 UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19354.m3u8
 #EXTINF:-1 ,ITV2HDUK
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19352.m3u8
 #EXTINF:-1 ,ITV4 UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19347.m3u8
 #EXTINF:-1 ,ITVBe  1 UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19346.m3u8
-#EXTINF:-1 ,KIX  1 UK***
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19342.m3u8
 #EXTINF:-1 ,LFC TV UK***
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19339.m3u8
-#EXTINF:-1 ,Motors TV HD UK***
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19325.m3u8
 #EXTINF:-1 ,Movies24UK
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19324.m3u8
 #EXTINF:-1 ,MTV Base UK**
@@ -1725,14 +1607,8 @@ http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19316.m3u8
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19313.m3u8
 #EXTINF:-1 ,NickToons UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19315.m3u8
-#EXTINF:-1 ,Pick UK***
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19308.m3u8
 #EXTINF:-1 ,POPUK
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19310.m3u8
-#EXTINF:-1 ,QUEST RED  1 UK***
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19304.m3u8
-#EXTINF:-1 ,QUEST RED UK**
-http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19303.m3u8
 #EXTINF:-1 ,QUEST UK**
 http://95.154.194.14:8000/live/3E3tfSepRV/CHoDruHskE/19302.m3u8
 #EXTINF:-1 ,S4C UK**
@@ -1833,24 +1709,6 @@ http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1 group-title="KIDS CHANNEL",Greek kids
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 group-title="CABLE USA",AMC HD
-http://158.69.127.36:25461//streaming/clients_live.php?username=BbCHfcsrtx&password=WgdwT6jWfT&stream=82&extension=m3u8
-#EXTINF:-1 group-title="CABLE USA",AMC HD2
-http://158.69.127.36:25461//streaming/clients_live.php?username=BbCHfcsrtx&password=WgdwT6jWfT&stream=547&extension=m3u8
-#EXTINF:-1 group-title="CABLE USA",Boomerang
-http://158.69.127.36:25461//streaming/clients_live.php?username=BbCHfcsrtx&password=WgdwT6jWfT&stream=55&extension=m3u8
-#EXTINF:-1 group-title="CABLE USA",Fuel TV
-http://158.69.127.36:25461//streaming/clients_live.php?username=BbCHfcsrtx&password=WgdwT6jWfT&stream=78752&extension=m3u8
-#EXTINF:-1 group-title="CABLE USA",Cable - La Telera Mx - La Academia
-http://158.69.127.36:25461//streaming/clients_live.php?username=BbCHfcsrtx&password=WgdwT6jWfT&stream=80510&extension=m3u8
-#EXTINF:-1 group-title="CABLE USA",Cable - La Telera Mx - MX | Paramount MX
-http://158.69.127.36:25461//streaming/clients_live.php?username=BbCHfcsrtx&password=WgdwT6jWfT&stream=16128&extension=m3u8
-#EXTINF:-1 group-title="CABLE USA",Fox FHD
-http://158.69.127.36:25461//streaming/clients_live.php?username=BbCHfcsrtx&password=WgdwT6jWfT&stream=15586&extension=m3u8
-#EXTINF:-1 group-title="CABLE USA",Fox Series FHD
-http://158.69.127.36:25461//streaming/clients_live.php?username=BbCHfcsrtx&password=WgdwT6jWfT&stream=71&extension=m3u8
-#EXTINF:-1 group-title="CABLE USA",Fox Movies FHD
-http://158.69.127.36:25461//streaming/clients_live.php?username=BbCHfcsrtx&password=WgdwT6jWfT&stream=73&extension=m3u8
 #EXTINF:-1 group-title="INDONESIA",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="INDONESIA",MNC
@@ -1937,12 +1795,6 @@ http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",POP MUSIK
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="MKC FEED SPORT",MKC Feed 2
-https://172-105-122-8.nanostreaming.tech:8080/stream02/index.m3u8
-#EXTINF:-1 group-title="MKC FEED SPORT",MKC Feed 3
-https://172-105-122-8.nanostreaming.tech:8080/stream03/index.m3u8
-#EXTINF:-1 group-title="MKC FEED SPORT",MKC Feed 7
-https://172-105-122-8.nanostreaming.tech:8080/stream07/index.m3u8
 #EXTINF:-1 group-title="MUSIC",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 #EXTINF:-1 group-title="MUSIC",POP MUSIK
@@ -2055,10 +1907,6 @@ http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="NINMEDIA",POP MUSIK
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="MKC FEED SPORT",MKC Feed 7
-https://172-105-122-8.nanostreaming.tech:8080/stream07/index.m3u8
-#EXTINF:-1 group-title="MKC FEED SPORT",MKC Feed 9
-https://172-105-122-8.nanostreaming.tech:8080/stream09/index.m3u8
 #EXTINF:-1 group-title="MUSIC",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 #EXTINF:-1 group-title="MUSIC",POP MUSIK
@@ -2163,8 +2011,6 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://cableserver1.cableguy.pro:82/live?cId=1649&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",BEIN MOVIES 2
 http://cableserver1.cableguy.pro:82/live?cId=1650&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",BEIN MOVIES 3
-http://cableserver1.cableguy.pro:82/live?cId=1651&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",BEIN MOVIES 4
 http://cableserver1.cableguy.pro:82/live?cId=1652&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",MAXCRO SELECT 9
@@ -2201,8 +2047,6 @@ http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids TV",SAT 7 Kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
-#EXTINF:-1 group-title="Kids TV",TeleToon
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Kids TV",Малятко TV
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1 group-title="Malaysia",TV1(HW+)
@@ -2277,12 +2121,8 @@ http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Ninmedia",POP MUSIK
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Top doc ID Movies",6 Underground(2019)
-https://www.googleapis.com/drive/v3/files/13b_vLwMkFVp3W8HgBi21pt6I91uQjVec?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Top doc ID Movies",Abominable(2019)
 https://www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="Top doc ID Movies",AD Astra(2019)
-https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Top doc ID Movies",Aeronauts(2019)
 https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Top doc ID Movies",Alien : Covenant(2017)
@@ -2307,8 +2147,6 @@ https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87
 https://www.googleapis.com/drive/v3/files/1AYka1PFma7JZZFNS3AwxCD2Anfa43x9k?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Top doc ID Movies",The NuN(2018)
 https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
-#EXTINF:-1 group-title="Top doc ID Movies",The Nutcracker and the four realms(2018)
-https://www.googleapis.com/drive/v3/files/1B2DoTYlQAGN6wE2ZRkCUfnvH0tMkr1Ya?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Netflix",Netflix LIVE Movies 11
 https://dl.dropbox.com/s/nzd3ekunnrbkh60/Dubaimovie.m3u8?dl=0
 #EXTINF:-1 group-title="Movies",First Movie Indonesia
@@ -2319,10 +2157,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u
 http://203.207.56.228/live/iptv006.m3u8
 #EXTINF:-1 group-title="Movies",HBO Family ID
 http://203.207.56.228/live/iptv004.m3u8
-#EXTINF:-1 group-title="Movies",FOX Action Movies
-http://cableserver1.cableguy.pro:82/live?cId=1665&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",FOX Crime
-http://cableserver1.cableguy.pro:82/live?cId=1666&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",AXN
 http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 group-title="Movies",AXN
@@ -2339,12 +2173,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 group-title="Movies",RAI MOVIE HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 group-title="Movies",BEIN MOVIES 1
-http://cableserver1.cableguy.pro:82/live?cId=1649&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",BEIN MOVIES 4
-http://cableserver1.cableguy.pro:82/live?cId=1652&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",MAXCRO SELECT 1
-http://cableserver1.cableguy.pro:82/live?cId=475&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",MAXCRO SELECT 2
 http://cableserver1.cableguy.pro:82/live?cId=476&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",MAXCRO SELECT 3
@@ -2355,8 +2183,6 @@ http://cableserver1.cableguy.pro:82/live?cId=478&uId=2255&deviceUser=roggiemkd&d
 http://cableserver1.cableguy.pro:82/live?cId=480&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",MAXCRO SELECT 7
 http://cableserver1.cableguy.pro:82/live?cId=481&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
-#EXTINF:-1 group-title="Movies",MAXCRO SELECT 8
-http://cableserver1.cableguy.pro:82/live?cId=482&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",MAXCRO SELECT 9
 http://cableserver1.cableguy.pro:82/live?cId=483&uId=2255&deviceUser=roggiemkd&devicePass=k5rM0tOjM5Lh9B3s
 #EXTINF:-1 group-title="Movies",MAXCRO SELECT 10
@@ -2391,8 +2217,6 @@ http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids TV",SAT 7 Kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
-#EXTINF:-1 group-title="Kids TV",TeleToon
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Kids TV",Малятко TV
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1 group-title="Malaysia",TV1(HW+)
@@ -2467,12 +2291,8 @@ http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Ninmedia",POP MUSIK
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Top doc ID Movies",6 Underground(2019)
-https://www.googleapis.com/drive/v3/files/13b_vLwMkFVp3W8HgBi21pt6I91uQjVec?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Top doc ID Movies",Abominable(2019)
 https://www.googleapis.com/drive/v3/files/17sDGwtnSLGrlbxUN8xDTbT8oVkBP5PPV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="Top doc ID Movies",AD Astra(2019)
-https://www.googleapis.com/drive/v3/files/1AnoMhojMIk9nM3J56Q8CaSnauP61A31o?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Top doc ID Movies",Aeronauts(2019)
 https://www.googleapis.com/drive/v3/files/1QxXWuBL8KCKXbwJA0LVaB2NiHyuQar98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Top doc ID Movies",Alien : Covenant(2017)
@@ -2497,8 +2317,6 @@ https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87
 https://www.googleapis.com/drive/v3/files/1AYka1PFma7JZZFNS3AwxCD2Anfa43x9k?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Top doc ID Movies",The NuN(2018)
 https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
-#EXTINF:-1 group-title="Top doc ID Movies",The Nutcracker and the four realms(2018)
-https://www.googleapis.com/drive/v3/files/1B2DoTYlQAGN6wE2ZRkCUfnvH0tMkr1Ya?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="Top doc ID Movies",Triple Threat(2019)
 https://gdrivecdn.us/drive/index.php?id=7ShwPFRIovlOpJ6HiWoztAM8ZKv4%2Fdd1M4W9WvlGsMFis0BlYqbl8idIKeUe%2FC4ZKGP%2FYH0LObsYIhP2ASuIE%2Fgh5MoiJMeSnl9lw82UqLq2rlZl60FTtDXNANVveypGE%3D&ref=&res=720
 #EXTINF:-1 group-title="News",ABC News
@@ -2509,8 +2327,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",Al Jazeera English
 https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8
-#EXTINF:-1 ,|USA| MTV
-http://185.23.213.162:8789/live/ania/ania/24019.m3u8
 #EXTINF:-1 ,RT DOCUMENTARY
 https://rt-doc-gd.secure2.footprint.net/1101_1600Kb.m3u8?stream_start_offset=14000000&stream_dvr_window=0
 #EXTINF:-1 ,US: USA Network
@@ -3555,142 +3371,6 @@ http://151.80.100.155:25443/get.php?username=vodall&password=vrIzSCaxGN&type=m3u
 http://qyshdush.dyndns.info:5500/get.php?username=atv1&password=8888&type=m3u_plus
 #EXTINF:-1 group-title="Unknown",Unknown 94
 http://master.cystreams.com:25461/get.php?username=faros&password=farostv&type=m3u_plus
-#EXTINF:-1 ,|ES| LA 1 FHD
-http://185.23.213.162:8789/ania/ania/23174
-#EXTINF:-1 ,|ES| LA 1 SD
-http://185.23.213.162:8789/ania/ania/23173
-#EXTINF:-1 ,|ES| CLAN TVE
-http://185.23.213.162:8789/ania/ania/23172
-#EXTINF:-1 ,|ES| LA 2 SD
-http://185.23.213.162:8789/ania/ania/23171
-#EXTINF:-1 ,|ES| ANTENA 3 FHD
-http://185.23.213.162:8789/ania/ania/23170
-#EXTINF:-1 ,|ES| ANTENA 3 SD
-http://185.23.213.162:8789/ania/ania/23169
-#EXTINF:-1 ,|ES| TELECINCO HD
-http://185.23.213.162:8789/ania/ania/23166
-#EXTINF:-1 ,|ES| TELECINCO
-http://185.23.213.162:8789/ania/ania/23165
-#EXTINF:-1 ,|ES| LA SEXTA FHD
-http://185.23.213.162:8789/ania/ania/23164
-#EXTINF:-1 ,|ES| LA SEXTA HD
-http://185.23.213.162:8789/ania/ania/23163
-#EXTINF:-1 ,|ES| LA SEXTA
-http://185.23.213.162:8789/ania/ania/23162
-#EXTINF:-1 ,|ES| TV GALICIA
-http://185.23.213.162:8789/ania/ania/23161
-#EXTINF:-1 ,|ES| CANAL ANDALUCIA
-http://185.23.213.162:8789/ania/ania/23160
-#EXTINF:-1 ,|ES| CANAL 24 HORAS
-http://185.23.213.162:8789/ania/ania/23157
-#EXTINF:-1 ,|ES| M GOL TV
-http://185.23.213.162:8789/ania/ania/14082
-#EXTINF:-1 ,|ES| M TELEDEPORTE
-http://185.23.213.162:8789/ania/ania/14061
-#EXTINF:-1 ,|ES| M beIN LALIGA
-http://185.23.213.162:8789/ania/ania/14075
-#EXTINF:-1 ,|ES| M beIN LALIGA FHD
-http://185.23.213.162:8789/ania/ania/14073
-#EXTINF:-1 ,|ES| M REAL MADRID TV
-http://185.23.213.162:8789/ania/ania/14084
-#EXTINF:-1 ,|ES| M BARCA TV
-http://185.23.213.162:8789/ania/ania/14085
-#EXTINF:-1 ,|ES| M EUROSPORT 1
-http://185.23.213.162:8789/ania/ania/14059
-#EXTINF:-1 ,|ES| M ESTRENOS FHD
-http://185.23.213.162:8789/ania/ania/23152
-#EXTINF:-1 ,|ES| M ESTRENOS
-http://185.23.213.162:8789/ania/ania/23151
-#EXTINF:-1 ,|ES| M XTRA HD
-http://185.23.213.162:8789/ania/ania/23150
-#EXTINF:-1 ,|ES| M ACCION FHD
-http://185.23.213.162:8789/ania/ania/23149
-#EXTINF:-1 ,|ES| M ACCION
-http://185.23.213.162:8789/ania/ania/23148
-#EXTINF:-1 ,|ES| M COMEDIA HD
-http://185.23.213.162:8789/ania/ania/23147
-#EXTINF:-1 ,|ES| M Comedia
-http://185.23.213.162:8789/ania/ania/23146
-#EXTINF:-1 ,|ES| M DRAMA FHD
-http://185.23.213.162:8789/ania/ania/23145
-#EXTINF:-1 ,|ES| LIFE TV
-http://185.23.213.162:8789/ania/ania/23144
-#EXTINF:-1 ,|ES| M DRAMA
-http://185.23.213.162:8789/ania/ania/23143
-#EXTINF:-1 ,|ES| M DCINE FHD
-http://185.23.213.162:8789/ania/ania/23142
-#EXTINF:-1 ,|ES| M HOLLYWOOD HD
-http://185.23.213.162:8789/ania/ania/23141
-#EXTINF:-1 ,|ES| TCM
-http://185.23.213.162:8789/ania/ania/23140
-#EXTINF:-1 ,|ES| M TNT FHD
-http://185.23.213.162:8789/ania/ania/23139
-#EXTINF:-1 ,|ES| M SERIES FHD
-http://185.23.213.162:8789/ania/ania/23136
-#EXTINF:-1 ,|ES| M SERIES XTRA HD
-http://185.23.213.162:8789/ania/ania/23135
-#EXTINF:-1 ,|ES| COMEDY CENTRAL FHD
-http://185.23.213.162:8789/ania/ania/23134
-#EXTINF:-1 ,|ES| FOX
-http://185.23.213.162:8789/ania/ania/23130
-#EXTINF:-1 ,|ES| AMC FHD
-http://185.23.213.162:8789/ania/ania/23128
-#EXTINF:-1 ,|ES| AMC
-http://185.23.213.162:8789/ania/ania/23127
-#EXTINF:-1 ,|ES| M AXN FHD
-http://185.23.213.162:8789/ania/ania/23126
-#EXTINF:-1 ,|ES| M AXN WHITE FHD
-http://185.23.213.162:8789/ania/ania/23124
-#EXTINF:-1 ,|ES| M SYFY FHD
-http://185.23.213.162:8789/ania/ania/23123
-#EXTINF:-1 ,|ES| ENERGY
-http://185.23.213.162:8789/ania/ania/23121
-#EXTINF:-1 ,|ES|  COSMO FHD
-http://185.23.213.162:8789/ania/ania/23120
-#EXTINF:-1 ,|ES| M DECASA
-http://185.23.213.162:8789/ania/ania/23118
-#EXTINF:-1 ,|ES| CANAL ODISEA
-http://185.23.213.162:8789/ania/ania/23115
-#EXTINF:-1 ,|ES| NAT GEOGRAPHIC FHD
-http://185.23.213.162:8789/ania/ania/23114
-#EXTINF:-1 ,|ES| NAT GEO WILD FHD
-http://185.23.213.162:8789/ania/ania/23113
-#EXTINF:-1 ,|ES| DISCOVERY CHANNEL HD
-http://185.23.213.162:8789/ania/ania/23110
-#EXTINF:-1 ,|ES| HISTORIA
-http://185.23.213.162:8789/ania/ania/23109
-#EXTINF:-1 ,|ES| A&E
-http://185.23.213.162:8789/ania/ania/23108
-#EXTINF:-1 ,|ES| CAZA Y PESCA FHD
-http://185.23.213.162:8789/ania/ania/23107
-#EXTINF:-1 ,|ES| IBERALIA TV
-http://185.23.213.162:8789/ania/ania/23106
-#EXTINF:-1 ,|ES| VIAJAR FHD
-http://185.23.213.162:8789/ania/ania/23105
-#EXTINF:-1 ,|ES| CANAL COCINA
-http://185.23.213.162:8789/ania/ania/23104
-#EXTINF:-1 ,|ES| NICKELODEON FHD
-http://185.23.213.162:8789/ania/ania/23102
-#EXTINF:-1 ,|ES| CANAL PANDA
-http://185.23.213.162:8789/ania/ania/23095
-#EXTINF:-1 ,|ES| BOING
-http://185.23.213.162:8789/ania/ania/23094
-#EXTINF:-1 ,|ES| BABY ESP
-http://185.23.213.162:8789/ania/ania/23093
-#EXTINF:-1 ,|ES| TAQUILLA 8
-http://185.23.213.162:8789/ania/ania/23084
-#EXTINF:-1 ,|ES| TAQUILLA 9
-http://185.23.213.162:8789/ania/ania/23083
-#EXTINF:-1 group-title="DEPORTES",LIGA TV BAR
-http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/164.ts
-#EXTINF:-1 group-title="DEPORTES",LIGA TV BAR HD
-http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/165.ts
-#EXTINF:-1 group-title="DEPORTES",LIGATV BAR FHD
-http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/166.ts
-#EXTINF:-1 group-title="DEPORTES",MOVISTAR LA LIGA
-http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/260.ts
-#EXTINF:-1 group-title="DEPORTES",MOVISTAR LA LIGA FHD
-http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/170.ts
 #EXTINF:-1 group-title="DEPORTES",MOVISTAR LA LIGA 1 FULLHD
 http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/172.ts
 #EXTINF:-1 group-title="DEPORTES",MOVISTAR LIGA CAMPEONES
@@ -4449,8 +4129,6 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
 http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 #EXTINF:-1 group-title="USA LOCAL",Chattanooga: ABC 9 News
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
-#EXTINF:-1 group-title="USA LOCAL",Chicago: NBC 5 News
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="USA LOCAL",Chicago: WGN 9 News
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1 group-title="USA LOCAL",Connecticut: News 12
@@ -4503,10 +4181,6 @@ http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1 group-title="USA LOCAL",Washington DC: CBS 9 News
 https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
-#EXTINF:-1 group-title="USA LOCAL",Washington DC: NBC 4 News
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-#EXTINF:-1 group-title="USA LOCAL",Washington DC: Telemundo 44 (New!)
-https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 #EXTINF:-1 group-title="USA LOCAL",Westchester: News 12
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
 #EXTINF:-1 group-title="USA GEO",Charge! (Geo)
@@ -5127,8 +4801,6 @@ http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
 #EXTINF:-1 group-title="SWEDEN",Oppna Kanalen
 http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
-#EXTINF:-1 group-title="SWEDEN",Västmanlands TV
-https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8
 #EXTINF:-1 group-title="BELGIUM",Antenne Centre
 http://tvl-live.l3.freecaster.net/live/actv/actv-audio_track=128000-video=1600000.m3u8
 #EXTINF:-1 group-title="BELGIUM",Bel RTL
@@ -5249,8 +4921,6 @@ https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
 http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 #EXTINF:-1 group-title="FRANCE",Tebeo
 http://live2.awedia.com/hls/tebeo.m3u8
-#EXTINF:-1 group-title="FRANCE",TeleToon+
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="FRANCE",Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 #EXTINF:-1 group-title="FRANCE",TV3V
@@ -5369,8 +5039,6 @@ http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 http://wifitv.tv/media/live/1001/video.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY",Canale 21 Campania (New!)
 http://live.sloode.com:1935/canale21/live/playlist.m3u8
-#EXTINF:-1 group-title="ITALY",Canale 21 Lazio (New!)
-http://live.sloode.com:1935/canale21/live2/playlist.m3u8
 #EXTINF:-1 group-title="ITALY",Canale 40 Carbonia
 http://151.80.100.112:1935/canale40/canale40/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY",Canale 58 Irpinia
@@ -5465,8 +5133,6 @@ http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1 group-title="ITALY",Radio Capital (Opt-2)
 http://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1 group-title="ITALY",Radio Carina Potenza
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 #EXTINF:-1 group-title="ITALY",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 group-title="ITALY",Radio Italia Vision Ravena
@@ -5633,8 +5299,6 @@ http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 http://streaming126.trgmedia.it/filestream/livestreamHD.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY",TRM h24 Basilicata
 http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="ITALY",TSB Palermo
-https://streaming.wim.tv/live/_definst_/digitaleterrestre_aac/chunklist_w1449526911.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="ITALY",TSN Sondrio
 http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
 #EXTINF:-1 group-title="ITALY",TV Campane 1 Napoli
@@ -5889,8 +5553,6 @@ https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8?fl
 https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN",Canal Andalucia Cocina (Opt-2)
 https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="SPAIN",Canal Doñana ❖
-http://secure.todostreaming.es/live/disvision-alm.m3u8
 #EXTINF:-1 group-title="SPAIN",Canal Malaga
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="SPAIN",Canal Parlamento (Opt-1)
@@ -6203,8 +5865,6 @@ http://189.204.137.189:8888/m3u8/canal6.m3u8
 https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MEXICO",RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1 group-title="MEXICO",Sipse TV Cancun
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="MEXICO",SQCS Chetumal
 http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Teleformula
@@ -6241,8 +5901,6 @@ http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8?fluxustv.m3u8
 http://streaming.arcast.com.ar:1935/canal2deanfunes/canal2deanfunes/1.m3u8
 #EXTINF:-1 group-title="ARGENTINA",Canal 3 Aldea Brasilera
 http://stmv2.srvstm.com/brasil2/brasil2/playlist.m3u8
-#EXTINF:-1 group-title="ARGENTINA",Canal 3 Rosario
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA",Canal 4 Balcarce
 http://panel.dattalive.com:1935/8124/8124/chunklist_w283163661.m3u8
 #EXTINF:-1 group-title="ARGENTINA",Canal 4 Jujuy
@@ -6251,8 +5909,6 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 http://panel.dattalive.com:1935/8002/8002/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA",Canal 4 Posadas
 http://184.154.28.210:1935/canal4/canal4/live.m3u8
-#EXTINF:-1 group-title="ARGENTINA",Canal 4 San Juan
-http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
 #EXTINF:-1 group-title="ARGENTINA",Canal 7 Catamarca
 https://59d52c5a5ce5e.streamlock.net:4443/ctv/ctv/chunklist_w248825613.m3u8
 #EXTINF:-1 group-title="ARGENTINA",Canal 7 Santiago del Estero
@@ -6423,8 +6079,6 @@ http://hd.chileservidores.cl:8080/tvsalud/tvsalud/playlist.m3u8
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd?fluxustv.m3u8
 #EXTINF:-1 group-title="CHILE",TV Senado (Opt-2)
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1 group-title="CHILE",TVO San Vicente
-http://wow2.cl.digitalproserver.com/tvo/tvovivo/mp4:livestream1/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="CHILE",TVRed Punta Arenas
 http://45.33.58.155:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",UESTV Los Lagos
@@ -6567,8 +6221,6 @@ http://184.173.181.2:1935/8060/8060/playlist.m3u8
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",HM TV 33
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Info TDN
-http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Luna TV
 http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Mango TV
@@ -6613,18 +6265,12 @@ http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
 https://ss6.domint.net:3104/tvp_str/tvplata/master.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Vallevision TV
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
-#EXTINF:-1 group-title="DOMINICAN REPUBLIC",Vision 3000
-http://ss1.domint.net:2202/v3_str/v3000/chunklist_w223748530.m3u8
 #EXTINF:-1 group-title="DOMINICAN REPUBLIC",Yuna Vision 10
 http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8
 #EXTINF:-1 group-title="NICARAGUA",Canal 2 (Opt-1)
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 #EXTINF:-1 group-title="NICARAGUA",Canal 2 (Opt-3)
 http://162.244.81.181:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="EL SALVADOR",TVO Canal 23 (Opt-1)
-http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="EL SALVADOR",TVO Canal 23 (Opt-2)
-https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="GUATEMALA",Canal Antigua
 http://143.208.59.12:1935/CanalAntigua/myStream/chunklist.m3u8
 #EXTINF:-1 group-title="PANAMA",Nex TV
@@ -6645,12 +6291,6 @@ http://190.11.224.14:8134/liveevent.m3u8
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 #EXTINF:-1 group-title="HONDURAS",TSi
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
-#EXTINF:-1 group-title="VENEZUELA",Promar TV (Opt-1)
-http://edge.wms28.lorini.net/promar/promar/live.m3u8
-#EXTINF:-1 group-title="VENEZUELA",Promar TV (Opt-2)
-http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
-#EXTINF:-1 group-title="VENEZUELA",Promar TV (Opt-3)
-http://vcp1.myplaytv.com:1935/promar/promar/chunklist_w850287837.m3u8
 #EXTINF:-1 group-title="VENEZUELA",TeleSUR (Opt-1)
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="VENEZUELA",TeleSUR (Opt-2)
@@ -6659,8 +6299,6 @@ https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 group-title="VENEZUELA",Televisora de Oriente
 http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w545582271.m3u8
-#EXTINF:-1 group-title="VENEZUELA",TVes (New!)
-http://5.189.181.203:1935/tves/tves/chunklist_w1468535123.m3u8
 #EXTINF:-1 group-title="VENEZUELA",TVO (New!)
 http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
 #EXTINF:-1 group-title="VENEZUELA",Vale TV
@@ -7467,8 +7105,6 @@ http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 group-title="UKRAINE",INTV
 http://5.58.64.7:7777/udp/237.0.1.1:1234
-#EXTINF:-1 group-title="UKRAINE",ITV
-http://195.5.108.14:1935/live/itv1/playlist.m3u8
 #EXTINF:-1 group-title="UKRAINE",K1
 http://109.68.40.67/life/k1.m3u8
 #EXTINF:-1 group-title="UKRAINE",Kilia Kontakt
@@ -7687,8 +7323,6 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 #EXTINF:-1 group-title="GREECE",Channel 9
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
-#EXTINF:-1 group-title="GREECE",Cinefil
-http://web.onair-radio.eu:1935/cinefil/cinefil/master.m3u8
 #EXTINF:-1 group-title="GREECE",Corfu TV
 https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 group-title="GREECE",Creta
@@ -7717,8 +7351,6 @@ http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="GREECE",MAD TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 group-title="GREECE",Mega Cosmos (CA)
-http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="GREECE",Mesogeios TV
 http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
 #EXTINF:-1 group-title="GREECE",Montreal Greek TV (CA)
@@ -8131,8 +7763,6 @@ http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",Amrita TV (New!)
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
-#EXTINF:-1 group-title="INDIA",Anand TV (New!)
-https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 group-title="INDIA",Asianet Middle East (New!)
 http://150.242.21.2/middleeast.m3u8
 #EXTINF:-1 group-title="INDIA",Asianet News (New!)
@@ -8165,8 +7795,6 @@ http://37.220.111.189:1935/live/Studio_web/playlist.m3u8
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1 group-title="INDIA",Cinema TV (New!)
-https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",CNBC Awaaz (New!)
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 group-title="INDIA",CNBC Bajar (New!)
@@ -8291,8 +7919,6 @@ http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.s
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 group-title="INDIA",Lotus News (New!)
 http://51.75.95.11:5080/LiveApp/streams/962725995284705956438804.m3u8
-#EXTINF:-1 group-title="INDIA",M4 Malayalam (AU) (New!)
-http://m4malayalam.livebox.co.in/mfourmalayalamhls/live.m3u8
 #EXTINF:-1 group-title="INDIA",Magna Vision TV (New!)
 http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
 #EXTINF:-1 group-title="INDIA",Mangalam TV (New!)
@@ -8397,8 +8023,6 @@ http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playli
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",TV9 Telugu (New!)
 http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
-#EXTINF:-1 group-title="INDIA",TV84
-http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",TV100
 http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
 #EXTINF:-1 group-title="INDIA",Vaanavil TV (Opt-1)
@@ -8965,10 +8589,6 @@ https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIBYA",218 News (Opt-2)
 https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIBYA",Al Watan (Opt-1)
-http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
-#EXTINF:-1 group-title="LIBYA",Al Watan (Opt-2)
-http://185.27.116.54:1935/livestream/libyaelwatan/chunklist_w1373253378.m3u8
 #EXTINF:-1 group-title="LIBYA",Fadaeya Libeya (Opt-1)
 http://82.212.74.2:8000/live/7321.m3u8
 #EXTINF:-1 group-title="LIBYA",Libya Alhadath TV
@@ -11581,10 +11201,6 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 #EXTINF:-1 ,NBC 1
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-#EXTINF:-1 group-title="USA LOCAL",NBC 4 News (Washington DC)
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-#EXTINF:-1 ,NBC 5
-https://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
 #EXTINF:-1 group-title="USA",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 group-title="USA LOCAL",News 12 (Brooklyn)
@@ -11711,8 +11327,6 @@ https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 #EXTINF:-1 ,TV BATON ROUGE
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 ,TV84
-http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
 #EXTINF:-1 group-title="Local",TVW
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
 #EXTINF:-1 group-title="Local",TVW-2
@@ -11745,8 +11359,6 @@ http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 ,VTV CHANNEL 6 COLORADO
 http://hls.ksl.com/t/strata/playlist.m3u8
-#EXTINF:-1 group-title="CCTV",Washington DC - White House
-http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 #EXTINF:-1 group-title="USA LOCAL",WBRZ-TV (Baton Rouge)
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="USA",WCCA TV Worcester
@@ -11843,184 +11455,6 @@ http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 #EXTINF:-1 ,TVR
 https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
-#EXTINF:-1 group-title="Kids",TéléToon+
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,|FR| ALTICE STUDIO FHD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13787
-#EXTINF:-1 ,|FR| ALTICE STUDIO HD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/28413
-#EXTINF:-1 ,|FR| ANIMAUX FHD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13789
-#EXTINF:-1 ,|FR| MTV HITS HD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/8050
-#EXTINF:-1 ,|FR| BE CURIOUS FHD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13814
-#EXTINF:-1 ,|FR| INFOSPORT FHD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13729
-#EXTINF:-1 ,|FR| LA CHAINE METEO FHD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13783
-#EXTINF:-1 ,|FR| NATIONAL GEO WILD FHD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13719
-#EXTINF:-1 ,|FR| NATIONAL GEO FHD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13718
-#EXTINF:-1 ,|FR| OCS MAX FHD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13825
-#EXTINF:-1 ,|FR| OCS MAX HD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13996
-#EXTINF:-1 ,|FR| NICKELODEON+1 FHD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13854
-#EXTINF:-1 ,|FR| NICKELODEON 4 TEEN FHD
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/24957
-#EXTINF:-1 ,|FR| ANIMAUX (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39526
-#EXTINF:-1 ,|FR| ARTE (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39469
-#EXTINF:-1 ,|FR| ACTION (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39420
-#EXTINF:-1 ,|FR| AB3 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39410
-#EXTINF:-1 ,|FR| AB1 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39411
-#EXTINF:-1 ,|FR| DISCOVERY CHANNEL (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39535
-#EXTINF:-1 ,|FR| DISCOVERY FAMILY (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39534
-#EXTINF:-1 ,|FR| DISCOVERY INVESTIGATIONS (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39533
-#EXTINF:-1 ,|FR| DISCOVERY SCIENCES (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39532
-#EXTINF:-1 ,|FR| DISNEY CHANNEL (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39525
-#EXTINF:-1 ,|FR| DISNEY CINEMA (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39524
-#EXTINF:-1 ,|FR| DISNEY JUNIOR (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39523
-#EXTINF:-1 ,|FR| DISNEY XD (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39522
-#EXTINF:-1 ,|FR| E! ENTERTAINMENT (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39545
-#EXTINF:-1 ,|FR| ELLE GIRLS (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39546
-#EXTINF:-1 ,|FR| EQUIDIA (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39492
-#EXTINF:-1 ,|FR| EUROSPORT 1 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39494
-#EXTINF:-1 ,|FR| EUROSPORT 2 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39493
-#EXTINF:-1 ,|FR| FOOT  24/24 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39491
-#EXTINF:-1 ,|FR| FRANCE 2 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39474
-#EXTINF:-1 ,|FR| FRANCE 3 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39473
-#EXTINF:-1 ,|FR| FRANCE 4 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39472
-#EXTINF:-1 ,|FR| INFOSPORT  (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39496
-#EXTINF:-1 ,|FR| J-ONE (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39506
-#EXTINF:-1 ,|FR| LA CHAINE METEO (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39462
-#EXTINF:-1 ,|FR| LCI (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39458
-#EXTINF:-1 ,|FR| HISTOIRE (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39527
-#EXTINF:-1 ,|FR| M6 MUSIC (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39481
-#EXTINF:-1 ,|FR| MANGAS (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39507
-#EXTINF:-1 ,|FR| M6 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39470
-#EXTINF:-1 ,|FR| MTV FRANCE (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39486
-#EXTINF:-1 ,|FR| MTV HITS (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39485
-#EXTINF:-1 ,|FR| MY CUISINE (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39540
-#EXTINF:-1 ,|FR| MYZEN TV (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39487
-#EXTINF:-1 ,|FR| NATIONAL GEO (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39530
-#EXTINF:-1 ,|FR| NATIONAL GEO WILD (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39529
-#EXTINF:-1 ,|FR| NICKELODEON CHANNEL (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39521
-#EXTINF:-1 ,|FR| NICKELODEON JUNIOR (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39519
-#EXTINF:-1 ,|FR| NON STOP PEOPLE TV (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39543
-#EXTINF:-1 ,|FR| OCS CHOC (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39423
-#EXTINF:-1 ,|FR| OCS CITY (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39424
-#EXTINF:-1 ,|FR| OCS GEANTS (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39425
-#EXTINF:-1 ,|FR| OCS MAX (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39422
-#EXTINF:-1 ,|FR| 13EME RUE (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39419
-#EXTINF:-1 ,|FR| 6TER (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39446
-#EXTINF:-1 ,|FR| BET (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39547
-#EXTINF:-1 ,|FR| NRJ 12 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39463
-#EXTINF:-1 ,|FR| NRJ HITS TV (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39479
-#EXTINF:-1 ,|FR| OKLM TV (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39480
-#EXTINF:-1 ,|FR| ONE TV (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39477
-#EXTINF:-1 ,|FR| PARAMOUNT CHANNEL (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39427
-#EXTINF:-1 ,|FR| PARIS PREMIERE (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39416
-#EXTINF:-1 ,|FR| PLANETE  (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39539
-#EXTINF:-1 ,|FR| PLANETE  CI (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39537
-#EXTINF:-1 ,|FR| POLAR  (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39421
-#EXTINF:-1 ,|FR| RMC STORY (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39445
-#EXTINF:-1 ,|FR| RTL9 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39415
-#EXTINF:-1 ,|FR| SCIENCE & VIE TV (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39528
-#EXTINF:-1 ,|FR| SERIE CLUB (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39414
-#EXTINF:-1 ,|FR| SUNDANCE (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39544
-#EXTINF:-1 ,|FR| SYFY (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39412
-#EXTINF:-1 ,|FR| TCM CINEMA (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39428
-#EXTINF:-1 ,|FR| TELETOON  1 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39512
-#EXTINF:-1 ,|FR| TELETOON (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39513
-#EXTINF:-1 ,|FR| TF1  1 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39475
-#EXTINF:-1 ,|FR| TF1 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39476
-#EXTINF:-1 ,|FR| TF1 SERIES / FILMS (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39449
-#EXTINF:-1 ,|FR| TMC (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39466
-#EXTINF:-1 ,|FR| TRACE URBAN (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39482
-#EXTINF:-1 ,|FR| TV BREIZH (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39548
-#EXTINF:-1 ,|FR| USHUAIA TV (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39531
-#EXTINF:-1 ,|FR| VIA GRAND PARIS (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39452
-#EXTINF:-1 ,|FR| VICELAND TV (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39542
-#EXTINF:-1 ,|FR| W9 (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39467
-#EXTINF:-1 ,|FR| WEO (SD)
-http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39454
 #EXTINF:-1 ,TV5Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
 #EXTINF:-1 ,TV5Monde Info
@@ -12045,8 +11479,6 @@ http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 #EXTINF:-1 ,TVR
 https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
-#EXTINF:-1 group-title="Kids",TéléToon+
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 ,Alsace 20
@@ -12407,8 +11839,6 @@ https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
 #EXTINF:-1 ,Al Hadath
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
-#EXTINF:-1 ,Al Watan
-http://streaming.i-sat.tv:1935/live/libyaelwatan/chunklist_w391917388.m3u8
 #EXTINF:-1 ,Libya Future
 http://streamer11.elementssys.com:8080/demo/rasmyah/index.m3u8
 #EXTINF:-1 ,Libya's Channel
@@ -12499,3 +11929,13 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 ,MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1,LIGA TV BAR
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/164.ts
+#EXTINF:-1,LIGA TV BAR HD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/165.ts
+#EXTINF:-1,LIGATV BAR FHD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/166.ts
+#EXTINF:-1,MOVISTAR LA LIGA
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/260.ts
+#EXTINF:-1,MOVISTAR LA LIGA FHD
+http://servicioiptv.com:8000/live/pozaprod@gmail.com/y1Y5c4Vb7s/170.ts
